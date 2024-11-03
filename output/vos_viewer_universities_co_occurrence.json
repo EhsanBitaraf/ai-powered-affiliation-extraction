@@ -1,0 +1,2744 @@
+{
+    "network": {
+        "items": [
+            {
+                "id": "University Hospital Frankfurt",
+                "label": "University Hospital Frankfurt",
+                "x": 0.0588,
+                "y": -0.9833
+            },
+            {
+                "id": "Dalhousie University",
+                "label": "Dalhousie University",
+                "x": -0.6428,
+                "y": 0.0922
+            },
+            {
+                "id": "Medical University of Graz",
+                "label": "Medical University of Graz",
+                "x": 0.1605,
+                "y": -0.9745
+            },
+            {
+                "id": "University of Manchester",
+                "label": "University of Manchester",
+                "x": -0.4006,
+                "y": -0.0066
+            },
+            {
+                "id": "Aalborg University",
+                "label": "Aalborg University",
+                "x": 0.1942,
+                "y": -0.376
+            },
+            {
+                "id": "University of Southern Denmark",
+                "label": "University of Southern Denmark",
+                "x": 0.0401,
+                "y": -0.3259
+            },
+            {
+                "id": "Norwegian University of Science and Technology",
+                "label": "Norwegian University of Science and Technology",
+                "x": -0.7516,
+                "y": -0.916
+            },
+            {
+                "id": "Hannover Medical School",
+                "label": "Hannover Medical School",
+                "x": 0.0487,
+                "y": 0.0111
+            },
+            {
+                "id": "University of Braunschweig - Institute of Technology and Hannover Medical School",
+                "label": "University of Braunschweig - Institute of Technology and Hannover Medical School",
+                "x": -0.7303,
+                "y": -0.0256
+            },
+            {
+                "id": "Ume\u00e5 University",
+                "label": "Ume\u00e5 University",
+                "x": -0.7872,
+                "y": -0.3701
+            },
+            {
+                "id": "University of Turku",
+                "label": "University of Turku",
+                "x": 0.1845,
+                "y": -0.0649
+            },
+            {
+                "id": "University of Geneva",
+                "label": "University of Geneva",
+                "x": 0.1184,
+                "y": -0.2558
+            },
+            {
+                "id": "University of Tasmania",
+                "label": "University of Tasmania",
+                "x": 0.0423,
+                "y": -0.8219
+            },
+            {
+                "id": "University",
+                "label": "University",
+                "x": -0.2779,
+                "y": 0.11
+            },
+            {
+                "id": "University of Eastern Finland",
+                "label": "University of Eastern Finland",
+                "x": -1.1455,
+                "y": -0.4518
+            },
+            {
+                "id": "Maastricht University",
+                "label": "Maastricht University",
+                "x": -0.0006,
+                "y": 0.0499
+            },
+            {
+                "id": "University at Buffalo",
+                "label": "University at Buffalo",
+                "x": 0.0627,
+                "y": -0.4733
+            },
+            {
+                "id": "University of Amsterdam",
+                "label": "University of Amsterdam",
+                "x": -1.055,
+                "y": -0.8754
+            },
+            {
+                "id": "University of Gothenburg",
+                "label": "University of Gothenburg",
+                "x": -0.4411,
+                "y": -0.0363
+            },
+            {
+                "id": "University of Pavia",
+                "label": "University of Pavia",
+                "x": 0.0161,
+                "y": -0.8512
+            },
+            {
+                "id": "University of Lille",
+                "label": "University of Lille",
+                "x": -0.1495,
+                "y": -0.983
+            },
+            {
+                "id": "University of Bergen",
+                "label": "University of Bergen",
+                "x": -0.4984,
+                "y": -0.6323
+            },
+            {
+                "id": "Mashhad University of Medical Sciences",
+                "label": "Mashhad University of Medical Sciences",
+                "x": 0.1364,
+                "y": -0.2577
+            },
+            {
+                "id": "Iran University of Medical Sciences",
+                "label": "Iran University of Medical Sciences",
+                "x": -0.9705,
+                "y": -0.0782
+            },
+            {
+                "id": "Aalto University",
+                "label": "Aalto University",
+                "x": -0.0789,
+                "y": -1.1068
+            },
+            {
+                "id": "University of Helsinki",
+                "label": "University of Helsinki",
+                "x": -0.1996,
+                "y": 0.19
+            },
+            {
+                "id": "Taipei Medical University",
+                "label": "Taipei Medical University",
+                "x": -0.4304,
+                "y": -1.0273
+            },
+            {
+                "id": "Vanderbilt University",
+                "label": "Vanderbilt University",
+                "x": -0.12,
+                "y": -0.647
+            },
+            {
+                "id": "Technische Universit\u00e4t Dresden",
+                "label": "Technische Universit\u00e4t Dresden",
+                "x": -0.6807,
+                "y": -0.2446
+            },
+            {
+                "id": "Link\u00f6ping University",
+                "label": "Link\u00f6ping University",
+                "x": -0.7382,
+                "y": -0.6254
+            },
+            {
+                "id": "University of Oulu",
+                "label": "University of Oulu",
+                "x": 0.1979,
+                "y": -1.1148
+            },
+            {
+                "id": "Kyoto University",
+                "label": "Kyoto University",
+                "x": -0.1912,
+                "y": -0.6739
+            },
+            {
+                "id": "University of Bordeaux",
+                "label": "University of Bordeaux",
+                "x": -0.3953,
+                "y": -0.8511
+            },
+            {
+                "id": "University of Rennes",
+                "label": "University of Rennes",
+                "x": -1.0629,
+                "y": -1.0413
+            },
+            {
+                "id": "University of Agder",
+                "label": "University of Agder",
+                "x": -0.6656,
+                "y": 0.1835
+            },
+            {
+                "id": "University College London",
+                "label": "University College London",
+                "x": -1.1403,
+                "y": -0.2327
+            },
+            {
+                "id": "McGill University",
+                "label": "McGill University",
+                "x": -0.5685,
+                "y": -0.4185
+            },
+            {
+                "id": "University of Oxford",
+                "label": "University of Oxford",
+                "x": -0.5148,
+                "y": -0.7835
+            },
+            {
+                "id": "Amrita University",
+                "label": "Amrita University",
+                "x": -1.1179,
+                "y": -1.0903
+            },
+            {
+                "id": "University of T\u00fcbingen",
+                "label": "University of T\u00fcbingen",
+                "x": -0.5457,
+                "y": -0.8679
+            },
+            {
+                "id": "Reutlingen University",
+                "label": "Reutlingen University",
+                "x": -0.0864,
+                "y": -0.4181
+            },
+            {
+                "id": "Leipzig University",
+                "label": "Leipzig University",
+                "x": -0.8901,
+                "y": -0.3405
+            },
+            {
+                "id": "University of Toronto",
+                "label": "University of Toronto",
+                "x": -0.1306,
+                "y": 0.1691
+            },
+            {
+                "id": "University of Victoria",
+                "label": "University of Victoria",
+                "x": -0.314,
+                "y": -0.4595
+            },
+            {
+                "id": "Osaka University",
+                "label": "Osaka University",
+                "x": 0.1918,
+                "y": -0.5671
+            },
+            {
+                "id": "University of Nebraska Medical Center",
+                "label": "University of Nebraska Medical Center",
+                "x": -0.125,
+                "y": -1.0283
+            },
+            {
+                "id": "University Hospital Heidelberg",
+                "label": "University Hospital Heidelberg",
+                "x": -0.3956,
+                "y": -0.8092
+            },
+            {
+                "id": "University of Heidelberg",
+                "label": "University of Heidelberg",
+                "x": 0.195,
+                "y": -0.0722
+            },
+            {
+                "id": "University of Leipzig",
+                "label": "University of Leipzig",
+                "x": -0.7891,
+                "y": -0.4516
+            },
+            {
+                "id": "Heidelberg University",
+                "label": "Heidelberg University",
+                "x": -0.5063,
+                "y": -0.997
+            },
+            {
+                "id": "University of Genoa",
+                "label": "University of Genoa",
+                "x": -0.8208,
+                "y": -0.2188
+            },
+            {
+                "id": "University Medical Center G\u00f6ttingen",
+                "label": "University Medical Center G\u00f6ttingen",
+                "x": -0.6011,
+                "y": -1.0649
+            },
+            {
+                "id": "University of L\u00fcbeck",
+                "label": "University of L\u00fcbeck",
+                "x": -0.9775,
+                "y": -0.9447
+            },
+            {
+                "id": "University of Leeds",
+                "label": "University of Leeds",
+                "x": -0.8324,
+                "y": -0.593
+            },
+            {
+                "id": "Universidade da Coru\u00f1a",
+                "label": "Universidade da Coru\u00f1a",
+                "x": -0.5653,
+                "y": -0.4987
+            },
+            {
+                "id": "UiT The Arctic University of Norway",
+                "label": "UiT The Arctic University of Norway",
+                "x": -0.4352,
+                "y": -0.612
+            },
+            {
+                "id": "University Hospital of North Norway",
+                "label": "University Hospital of North Norway",
+                "x": -1.0249,
+                "y": -0.7988
+            },
+            {
+                "id": "City University London",
+                "label": "City University London",
+                "x": -0.0789,
+                "y": -1.0695
+            },
+            {
+                "id": "University of Applied Sciences Technikum Wien",
+                "label": "University of Applied Sciences Technikum Wien",
+                "x": -0.4696,
+                "y": -0.3644
+            },
+            {
+                "id": "Lille University",
+                "label": "Lille University",
+                "x": -0.2501,
+                "y": -0.0484
+            },
+            {
+                "id": "Columbia University",
+                "label": "Columbia University",
+                "x": -1.1144,
+                "y": -0.0879
+            },
+            {
+                "id": "University of Regensburg",
+                "label": "University of Regensburg",
+                "x": -0.1812,
+                "y": -0.5739
+            },
+            {
+                "id": "University of Cauca",
+                "label": "University of Cauca",
+                "x": -1.0369,
+                "y": -0.789
+            },
+            {
+                "id": "Dokuz Eylul University",
+                "label": "Dokuz Eylul University",
+                "x": -0.0835,
+                "y": -0.7756
+            },
+            {
+                "id": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "label": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "x": -0.9936,
+                "y": -0.4981
+            },
+            {
+                "id": "Dokuz Eyl\u00fcl University",
+                "label": "Dokuz Eyl\u00fcl University",
+                "x": -0.5321,
+                "y": 0.142
+            },
+            {
+                "id": "Medical University",
+                "label": "Medical University",
+                "x": 0.1083,
+                "y": -0.6909
+            },
+            {
+                "id": "Friedrich-Alexander-University Erlangen-Nuremberg",
+                "label": "Friedrich-Alexander-University Erlangen-Nuremberg",
+                "x": -0.6641,
+                "y": 0.1553
+            },
+            {
+                "id": "RWTH Aachen University",
+                "label": "RWTH Aachen University",
+                "x": 0.0252,
+                "y": -0.4144
+            },
+            {
+                "id": "Lund University",
+                "label": "Lund University",
+                "x": 0.1783,
+                "y": -0.8424
+            },
+            {
+                "id": "Halmstad University",
+                "label": "Halmstad University",
+                "x": -0.8123,
+                "y": -1.0877
+            },
+            {
+                "id": "University of M\u00fcnster",
+                "label": "University of M\u00fcnster",
+                "x": -0.6406,
+                "y": -1.1305
+            },
+            {
+                "id": "Aristotle University of Thessaloniki",
+                "label": "Aristotle University of Thessaloniki",
+                "x": -0.9739,
+                "y": -0.8778
+            },
+            {
+                "id": "University of Porto",
+                "label": "University of Porto",
+                "x": -0.2289,
+                "y": -0.0053
+            },
+            {
+                "id": "Hochschule Hannover - University of Applied Sciences and Arts",
+                "label": "Hochschule Hannover - University of Applied Sciences and Arts",
+                "x": -0.5693,
+                "y": -0.0117
+            },
+            {
+                "id": "Tehran University of Medical Sciences",
+                "label": "Tehran University of Medical Sciences",
+                "x": -0.0744,
+                "y": 0.0373
+            },
+            {
+                "id": "Technische Universit\u00e4t Braunschweig",
+                "label": "Technische Universit\u00e4t Braunschweig",
+                "x": -0.765,
+                "y": 0.1995
+            },
+            {
+                "id": "Bielefeld University",
+                "label": "Bielefeld University",
+                "x": 0.1492,
+                "y": -0.0176
+            },
+            {
+                "id": "Medical Faculty OWL",
+                "label": "Medical Faculty OWL",
+                "x": -1.0651,
+                "y": -0.2044
+            },
+            {
+                "id": "Universidad de Sevilla",
+                "label": "Universidad de Sevilla",
+                "x": -1.0558,
+                "y": -0.2067
+            },
+            {
+                "id": "Bern University of Applied Sciences",
+                "label": "Bern University of Applied Sciences",
+                "x": -1.0537,
+                "y": -0.7322
+            },
+            {
+                "id": "The Catholic University of Korea",
+                "label": "The Catholic University of Korea",
+                "x": -0.8059,
+                "y": -0.2121
+            },
+            {
+                "id": "Seoul National University",
+                "label": "Seoul National University",
+                "x": 0.0001,
+                "y": -1.0847
+            },
+            {
+                "id": "Sorbonne Universit\u00e9",
+                "label": "Sorbonne Universit\u00e9",
+                "x": -0.388,
+                "y": -0.7863
+            },
+            {
+                "id": "Universit\u00e9 Paris-Saclay",
+                "label": "Universit\u00e9 Paris-Saclay",
+                "x": -0.4667,
+                "y": -0.3677
+            },
+            {
+                "id": "University of Warwick",
+                "label": "University of Warwick",
+                "x": -0.2547,
+                "y": -0.4478
+            },
+            {
+                "id": "University of Birmingham",
+                "label": "University of Birmingham",
+                "x": 0.1503,
+                "y": -0.6015
+            },
+            {
+                "id": "University Hospital T\u00fcbingen",
+                "label": "University Hospital T\u00fcbingen",
+                "x": -0.1248,
+                "y": -0.5848
+            },
+            {
+                "id": "University Medicine Greifswald",
+                "label": "University Medicine Greifswald",
+                "x": 0.0096,
+                "y": -0.6297
+            },
+            {
+                "id": "Technical University of Munich",
+                "label": "Technical University of Munich",
+                "x": -0.0293,
+                "y": 0.1782
+            },
+            {
+                "id": "\u00d6rebro University",
+                "label": "\u00d6rebro University",
+                "x": -0.1009,
+                "y": -1.1245
+            },
+            {
+                "id": "Uppsala University",
+                "label": "Uppsala University",
+                "x": 0.1732,
+                "y": -1.136
+            },
+            {
+                "id": "Tampere University",
+                "label": "Tampere University",
+                "x": -1.1295,
+                "y": -1.135
+            },
+            {
+                "id": "University of Arkansas for Medical Sciences",
+                "label": "University of Arkansas for Medical Sciences",
+                "x": -0.6924,
+                "y": -0.3611
+            },
+            {
+                "id": "Arkansas State University",
+                "label": "Arkansas State University",
+                "x": -0.7228,
+                "y": -0.5139
+            },
+            {
+                "id": "University of Duisburg-Essen",
+                "label": "University of Duisburg-Essen",
+                "x": -0.2047,
+                "y": -0.3383
+            },
+            {
+                "id": "Witten/Herdecke University",
+                "label": "Witten/Herdecke University",
+                "x": -0.3379,
+                "y": 0.1008
+            },
+            {
+                "id": "Eberhard-Karls University T\u00fcbingen",
+                "label": "Eberhard-Karls University T\u00fcbingen",
+                "x": -0.7464,
+                "y": -0.6465
+            },
+            {
+                "id": "University of Freiburg",
+                "label": "University of Freiburg",
+                "x": -0.2293,
+                "y": -0.8541
+            },
+            {
+                "id": "Tampere University Hospital",
+                "label": "Tampere University Hospital",
+                "x": -0.6378,
+                "y": -0.9345
+            },
+            {
+                "id": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+                "label": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+                "x": -0.8859,
+                "y": -0.067
+            },
+            {
+                "id": "University of Cologne",
+                "label": "University of Cologne",
+                "x": -0.3219,
+                "y": 0.0823
+            },
+            {
+                "id": "Heilbronn University of Applied Sciences",
+                "label": "Heilbronn University of Applied Sciences",
+                "x": -1.0931,
+                "y": -0.9355
+            },
+            {
+                "id": "Universit\u00e4tsklinikum Erlangen",
+                "label": "Universit\u00e4tsklinikum Erlangen",
+                "x": 0.0085,
+                "y": -0.5445
+            },
+            {
+                "id": "University of Aveiro",
+                "label": "University of Aveiro",
+                "x": -1.0074,
+                "y": -0.4013
+            },
+            {
+                "id": "Universit\u00e9 de Paris Cit\u00e9",
+                "label": "Universit\u00e9 de Paris Cit\u00e9",
+                "x": -0.8847,
+                "y": -1.1074
+            },
+            {
+                "id": "Assistance Publique-H\u00f4pitaux de Paris (AP-HP)",
+                "label": "Assistance Publique-H\u00f4pitaux de Paris (AP-HP)",
+                "x": -0.3249,
+                "y": -0.7058
+            },
+            {
+                "id": "Osnabr\u00fcck University",
+                "label": "Osnabr\u00fcck University",
+                "x": 0.1852,
+                "y": -0.9735
+            },
+            {
+                "id": "Friedrich-Alexander University Erlangen-N\u00fcrnberg",
+                "label": "Friedrich-Alexander University Erlangen-N\u00fcrnberg",
+                "x": -0.943,
+                "y": -0.749
+            },
+            {
+                "id": "Osnabr\u00fcck University of Applied Sciences",
+                "label": "Osnabr\u00fcck University of Applied Sciences",
+                "x": 0.087,
+                "y": 0.1463
+            },
+            {
+                "id": "University Hospital Augsburg",
+                "label": "University Hospital Augsburg",
+                "x": -0.5924,
+                "y": -0.3001
+            },
+            {
+                "id": "University of Augsburg",
+                "label": "University of Augsburg",
+                "x": -0.6439,
+                "y": -0.1898
+            },
+            {
+                "id": "Nagoya University",
+                "label": "Nagoya University",
+                "x": -1.1283,
+                "y": -1.0875
+            },
+            {
+                "id": "University of Waterloo",
+                "label": "University of Waterloo",
+                "x": -0.9444,
+                "y": -0.8373
+            },
+            {
+                "id": "Universit\u00e9 de Paris",
+                "label": "Universit\u00e9 de Paris",
+                "x": -1.056,
+                "y": -0.3233
+            },
+            {
+                "id": "Universit\u00e9 de Paris, Sorbonne Universit\u00e9",
+                "label": "Universit\u00e9 de Paris, Sorbonne Universit\u00e9",
+                "x": -0.5359,
+                "y": -0.5284
+            },
+            {
+                "id": "Universit\u00e9 Sorbonne Paris Nord",
+                "label": "Universit\u00e9 Sorbonne Paris Nord",
+                "x": 0.195,
+                "y": -0.9056
+            },
+            {
+                "id": "Universit\u00e9 de Sherbrooke",
+                "label": "Universit\u00e9 de Sherbrooke",
+                "x": -0.5684,
+                "y": -1.0673
+            },
+            {
+                "id": "Universit\u00e9 de Montr\u00e9al",
+                "label": "Universit\u00e9 de Montr\u00e9al",
+                "x": -0.6921,
+                "y": -0.3363
+            },
+            {
+                "id": "Ludwig Maximilian University of Munich",
+                "label": "Ludwig Maximilian University of Munich",
+                "x": -0.5612,
+                "y": -0.0471
+            },
+            {
+                "id": "Neu-Ulm University of Applied Sciences",
+                "label": "Neu-Ulm University of Applied Sciences",
+                "x": -0.3096,
+                "y": -0.4185
+            },
+            {
+                "id": "AP-HP",
+                "label": "AP-HP",
+                "x": -0.992,
+                "y": 0.1003
+            },
+            {
+                "id": "PSL Research University",
+                "label": "PSL Research University",
+                "x": -0.6492,
+                "y": 0.1207
+            },
+            {
+                "id": "HEGP",
+                "label": "HEGP",
+                "x": -0.4611,
+                "y": -1.138
+            },
+            {
+                "id": "Labex OncoImmunology",
+                "label": "Labex OncoImmunology",
+                "x": -0.8986,
+                "y": -0.7686
+            },
+            {
+                "id": "University of Paris",
+                "label": "University of Paris",
+                "x": 0.0958,
+                "y": 0.0944
+            },
+            {
+                "id": "University of Oklahoma",
+                "label": "University of Oklahoma",
+                "x": -0.044,
+                "y": -0.0838
+            },
+            {
+                "id": "Aix Marseille University",
+                "label": "Aix Marseille University",
+                "x": -0.0601,
+                "y": -0.9984
+            },
+            {
+                "id": "Delft University of Technology",
+                "label": "Delft University of Technology",
+                "x": -0.0896,
+                "y": 0.1728
+            },
+            {
+                "id": "Ryerson University",
+                "label": "Ryerson University",
+                "x": -0.5047,
+                "y": -1.028
+            },
+            {
+                "id": "York University",
+                "label": "York University",
+                "x": -0.5784,
+                "y": -0.7712
+            },
+            {
+                "id": "University of Florida",
+                "label": "University of Florida",
+                "x": -1.003,
+                "y": -0.2156
+            },
+            {
+                "id": "Universit\u00e9 Laval",
+                "label": "Universit\u00e9 Laval",
+                "x": -1.0257,
+                "y": 0.0213
+            },
+            {
+                "id": "University of Kent",
+                "label": "University of Kent",
+                "x": -0.4127,
+                "y": -1.0492
+            },
+            {
+                "id": "University of Surrey",
+                "label": "University of Surrey",
+                "x": -0.1163,
+                "y": -0.8382
+            },
+            {
+                "id": "University of Trieste",
+                "label": "University of Trieste",
+                "x": -0.915,
+                "y": -0.1542
+            },
+            {
+                "id": "University of California San Francisco",
+                "label": "University of California San Francisco",
+                "x": -0.5192,
+                "y": 0.0123
+            },
+            {
+                "id": "University of California Berkeley",
+                "label": "University of California Berkeley",
+                "x": -0.5412,
+                "y": -0.4576
+            },
+            {
+                "id": "University of Central Florida",
+                "label": "University of Central Florida",
+                "x": -1.0027,
+                "y": -0.3189
+            },
+            {
+                "id": "Harvard Medical School",
+                "label": "Harvard Medical School",
+                "x": 0.1229,
+                "y": -0.8255
+            },
+            {
+                "id": "Federal University of Paran\u00e1",
+                "label": "Federal University of Paran\u00e1",
+                "x": -0.5837,
+                "y": 0.1854
+            },
+            {
+                "id": "Martin-Luther-University Halle-Wittenberg",
+                "label": "Martin-Luther-University Halle-Wittenberg",
+                "x": -0.3942,
+                "y": -0.6294
+            },
+            {
+                "id": "University of North Carolina",
+                "label": "University of North Carolina",
+                "x": -0.5931,
+                "y": -0.3064
+            },
+            {
+                "id": "University of Texas Health Science Center at Houston",
+                "label": "University of Texas Health Science Center at Houston",
+                "x": -0.1607,
+                "y": -0.5931
+            },
+            {
+                "id": "University of British Columbia",
+                "label": "University of British Columbia",
+                "x": -0.5626,
+                "y": -0.1472
+            },
+            {
+                "id": "University Hospital North Norway",
+                "label": "University Hospital North Norway",
+                "x": -0.0883,
+                "y": -1.0488
+            },
+            {
+                "id": "University of Texas Health Science Center at San Antonio",
+                "label": "University of Texas Health Science Center at San Antonio",
+                "x": -0.5561,
+                "y": -1.1387
+            },
+            {
+                "id": "University of Latvia",
+                "label": "University of Latvia",
+                "x": -0.3901,
+                "y": -0.2888
+            },
+            {
+                "id": "Duke University",
+                "label": "Duke University",
+                "x": -0.3514,
+                "y": -0.5235
+            },
+            {
+                "id": "University of Montreal",
+                "label": "University of Montreal",
+                "x": -1.0396,
+                "y": -0.1033
+            },
+            {
+                "id": "National and Kapodistrian University of Athens",
+                "label": "National and Kapodistrian University of Athens",
+                "x": -0.2335,
+                "y": -0.256
+            },
+            {
+                "id": "University of Fortaleza",
+                "label": "University of Fortaleza",
+                "x": -0.2709,
+                "y": -0.0451
+            },
+            {
+                "id": "Mahasarakham University",
+                "label": "Mahasarakham University",
+                "x": -0.4966,
+                "y": -1.1246
+            },
+            {
+                "id": "University of Applied Sciences and Arts Western Switzerland",
+                "label": "University of Applied Sciences and Arts Western Switzerland",
+                "x": -0.7198,
+                "y": -1.0651
+            },
+            {
+                "id": "Stanford University",
+                "label": "Stanford University",
+                "x": -0.7294,
+                "y": -0.0947
+            },
+            {
+                "id": "University of Udine",
+                "label": "University of Udine",
+                "x": 0.0268,
+                "y": -0.5425
+            },
+            {
+                "id": "Johns Hopkins University",
+                "label": "Johns Hopkins University",
+                "x": -0.052,
+                "y": -1.081
+            },
+            {
+                "id": "Kyushu University",
+                "label": "Kyushu University",
+                "x": 0.0834,
+                "y": 0.0588
+            },
+            {
+                "id": "University of Gondar",
+                "label": "University of Gondar",
+                "x": 0.0225,
+                "y": -0.9067
+            },
+            {
+                "id": "University of Washington",
+                "label": "University of Washington",
+                "x": -0.4035,
+                "y": -0.1289
+            },
+            {
+                "id": "University Hospital Basel",
+                "label": "University Hospital Basel",
+                "x": -0.8862,
+                "y": -0.1756
+            },
+            {
+                "id": "University Hospital Lausanne",
+                "label": "University Hospital Lausanne",
+                "x": -0.0476,
+                "y": -0.7359
+            },
+            {
+                "id": "University of Basel",
+                "label": "University of Basel",
+                "x": -0.4549,
+                "y": -1.0026
+            },
+            {
+                "id": "University Hospital",
+                "label": "University Hospital",
+                "x": 0.1284,
+                "y": -0.5249
+            },
+            {
+                "id": "University of Lausanne",
+                "label": "University of Lausanne",
+                "x": -0.1966,
+                "y": -0.0128
+            },
+            {
+                "id": "University of Bern",
+                "label": "University of Bern",
+                "x": -0.0114,
+                "y": -1.0532
+            },
+            {
+                "id": "University Hospital Geneva",
+                "label": "University Hospital Geneva",
+                "x": -0.1096,
+                "y": -0.0874
+            },
+            {
+                "id": "ETH Zurich",
+                "label": "ETH Zurich",
+                "x": -0.5272,
+                "y": -1.1361
+            },
+            {
+                "id": "University Hospital Zurich",
+                "label": "University Hospital Zurich",
+                "x": -0.3067,
+                "y": -0.8475
+            },
+            {
+                "id": "University of Zurich",
+                "label": "University of Zurich",
+                "x": -0.2307,
+                "y": -0.7027
+            },
+            {
+                "id": "Justus-Liebig-University",
+                "label": "Justus-Liebig-University",
+                "x": -0.7174,
+                "y": -1.1006
+            },
+            {
+                "id": "University of Rwanda",
+                "label": "University of Rwanda",
+                "x": -0.0924,
+                "y": -1.0113
+            },
+            {
+                "id": "LMU Munich",
+                "label": "LMU Munich",
+                "x": 0.0716,
+                "y": -0.3056
+            },
+            {
+                "id": "Carl von Ossietzky Universit\u00e4t Oldenburg",
+                "label": "Carl von Ossietzky Universit\u00e4t Oldenburg",
+                "x": -0.71,
+                "y": -0.7865
+            },
+            {
+                "id": "Medical University of Vienna",
+                "label": "Medical University of Vienna",
+                "x": -0.7695,
+                "y": -1.1061
+            },
+            {
+                "id": "Ben-Gurion University",
+                "label": "Ben-Gurion University",
+                "x": 0.1602,
+                "y": -0.1871
+            },
+            {
+                "id": "Kashan University of Medical Sciences",
+                "label": "Kashan University of Medical Sciences",
+                "x": -0.3122,
+                "y": -0.7497
+            },
+            {
+                "id": "University of Edinburgh",
+                "label": "University of Edinburgh",
+                "x": -0.6372,
+                "y": 0.034
+            },
+            {
+                "id": "Martin Luther University Halle-Wittenberg",
+                "label": "Martin Luther University Halle-Wittenberg",
+                "x": -0.1764,
+                "y": -0.5672
+            },
+            {
+                "id": "Amsterdam UMC",
+                "label": "Amsterdam UMC",
+                "x": -0.7359,
+                "y": -0.0905
+            },
+            {
+                "id": "Clemson University",
+                "label": "Clemson University",
+                "x": -0.4221,
+                "y": -0.1518
+            },
+            {
+                "id": "Ministry of Public Health",
+                "label": "Ministry of Public Health",
+                "x": -1.0092,
+                "y": -0.6008
+            },
+            {
+                "id": "Srinakharinwirot University",
+                "label": "Srinakharinwirot University",
+                "x": 0.1334,
+                "y": -0.4402
+            },
+            {
+                "id": "Thammasat University",
+                "label": "Thammasat University",
+                "x": -1.0851,
+                "y": 0.0558
+            },
+            {
+                "id": "Chiang Mai University",
+                "label": "Chiang Mai University",
+                "x": 0.1852,
+                "y": -0.5431
+            },
+            {
+                "id": "Kiel University",
+                "label": "Kiel University",
+                "x": -0.7867,
+                "y": -0.9474
+            },
+            {
+                "id": "Universit\u00e4t zu L\u00fcbeck",
+                "label": "Universit\u00e4t zu L\u00fcbeck",
+                "x": -0.6875,
+                "y": -0.3396
+            },
+            {
+                "id": "University Medical Center Mainz",
+                "label": "University Medical Center Mainz",
+                "x": -0.9777,
+                "y": 0.0957
+            },
+            {
+                "id": "University of Pennsylvania",
+                "label": "University of Pennsylvania",
+                "x": -1.1456,
+                "y": -0.663
+            },
+            {
+                "id": "University of Pennsylvania School of Nursing",
+                "label": "University of Pennsylvania School of Nursing",
+                "x": 0.0789,
+                "y": -0.8714
+            },
+            {
+                "id": "University of Chicago",
+                "label": "University of Chicago",
+                "x": -0.171,
+                "y": -0.311
+            }
+        ],
+        "links": [
+            {
+                "source_id": "University Hospital Frankfurt",
+                "target_id": "University Hospital Frankfurt",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Frankfurt",
+                "target_id": "University Medicine Greifswald",
+                "strength": 3
+            },
+            {
+                "source_id": "Dalhousie University",
+                "target_id": "Dalhousie University",
+                "strength": 23
+            },
+            {
+                "source_id": "Medical University of Graz",
+                "target_id": "University of Manchester",
+                "strength": 2
+            },
+            {
+                "source_id": "Medical University of Graz",
+                "target_id": "University of Nebraska Medical Center",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Manchester",
+                "target_id": "University of Nebraska Medical Center",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Manchester",
+                "target_id": "University of Manchester",
+                "strength": 2
+            },
+            {
+                "source_id": "Aalborg University",
+                "target_id": "University of Southern Denmark",
+                "strength": 3
+            },
+            {
+                "source_id": "Aalborg University",
+                "target_id": "Norwegian University of Science and Technology",
+                "strength": 2
+            },
+            {
+                "source_id": "Aalborg University",
+                "target_id": "Aalborg University",
+                "strength": 27
+            },
+            {
+                "source_id": "Aalborg University",
+                "target_id": "Link\u00f6ping University",
+                "strength": 2
+            },
+            {
+                "source_id": "Aalborg University",
+                "target_id": "University of Oulu",
+                "strength": 2
+            },
+            {
+                "source_id": "Aalborg University",
+                "target_id": "University of Tasmania",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Southern Denmark",
+                "target_id": "University of Tasmania",
+                "strength": 4
+            },
+            {
+                "source_id": "University of Southern Denmark",
+                "target_id": "University of Southern Denmark",
+                "strength": 3
+            },
+            {
+                "source_id": "Hannover Medical School",
+                "target_id": "University of Braunschweig - Institute of Technology and Hannover Medical School",
+                "strength": 3
+            },
+            {
+                "source_id": "Hannover Medical School",
+                "target_id": "Hochschule Hannover - University of Applied Sciences and Arts",
+                "strength": 2
+            },
+            {
+                "source_id": "Hannover Medical School",
+                "target_id": "University Medicine Greifswald",
+                "strength": 4
+            },
+            {
+                "source_id": "Hannover Medical School",
+                "target_id": "Hannover Medical School",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Braunschweig - Institute of Technology and Hannover Medical School",
+                "target_id": "Hochschule Hannover - University of Applied Sciences and Arts",
+                "strength": 2
+            },
+            {
+                "source_id": "Ume\u00e5 University",
+                "target_id": "Ume\u00e5 University",
+                "strength": 6
+            },
+            {
+                "source_id": "University of Turku",
+                "target_id": "University of Turku",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Turku",
+                "target_id": "Aalto University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Turku",
+                "target_id": "University of British Columbia",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Turku",
+                "target_id": "University of Warwick",
+                "strength": 4
+            },
+            {
+                "source_id": "University of Geneva",
+                "target_id": "University of Geneva",
+                "strength": 14
+            },
+            {
+                "source_id": "University of Geneva",
+                "target_id": "University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Geneva",
+                "target_id": "UiT The Arctic University of Norway",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Geneva",
+                "target_id": "Harvard Medical School",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Geneva",
+                "target_id": "University of Applied Sciences and Arts Western Switzerland",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Tasmania",
+                "target_id": "University of Tasmania",
+                "strength": 5
+            },
+            {
+                "source_id": "University",
+                "target_id": "University of Eastern Finland",
+                "strength": 3
+            },
+            {
+                "source_id": "University",
+                "target_id": "Leipzig University",
+                "strength": 2
+            },
+            {
+                "source_id": "University",
+                "target_id": "University",
+                "strength": 5
+            },
+            {
+                "source_id": "University",
+                "target_id": "Tampere University Hospital",
+                "strength": 3
+            },
+            {
+                "source_id": "University",
+                "target_id": "University of T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "University",
+                "target_id": "Sorbonne Universit\u00e9",
+                "strength": 2
+            },
+            {
+                "source_id": "University",
+                "target_id": "University of Duisburg-Essen",
+                "strength": 2
+            },
+            {
+                "source_id": "University",
+                "target_id": "Witten/Herdecke University",
+                "strength": 2
+            },
+            {
+                "source_id": "University",
+                "target_id": "Eberhard-Karls University T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "University",
+                "target_id": "University of Freiburg",
+                "strength": 2
+            },
+            {
+                "source_id": "University",
+                "target_id": "Heidelberg University",
+                "strength": 2
+            },
+            {
+                "source_id": "University",
+                "target_id": "University of L\u00fcbeck",
+                "strength": 3
+            },
+            {
+                "source_id": "University",
+                "target_id": "University of Lille",
+                "strength": 3
+            },
+            {
+                "source_id": "University",
+                "target_id": "Uppsala University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Eastern Finland",
+                "target_id": "University of Eastern Finland",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Eastern Finland",
+                "target_id": "Tampere University Hospital",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Eastern Finland",
+                "target_id": "Tampere University",
+                "strength": 2
+            },
+            {
+                "source_id": "Maastricht University",
+                "target_id": "Maastricht University",
+                "strength": 6
+            },
+            {
+                "source_id": "University at Buffalo",
+                "target_id": "University at Buffalo",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Amsterdam",
+                "target_id": "University of Amsterdam",
+                "strength": 8
+            },
+            {
+                "source_id": "University of Amsterdam",
+                "target_id": "Mashhad University of Medical Sciences",
+                "strength": 6
+            },
+            {
+                "source_id": "University of Amsterdam",
+                "target_id": "University of Washington",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Amsterdam",
+                "target_id": "Amsterdam UMC",
+                "strength": 4
+            },
+            {
+                "source_id": "University of Pavia",
+                "target_id": "University of Pavia",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Pavia",
+                "target_id": "University of Genoa",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Pavia",
+                "target_id": "University of Florida",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Lille",
+                "target_id": "University of Lille",
+                "strength": 32
+            },
+            {
+                "source_id": "University of Lille",
+                "target_id": "Lille University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Lille",
+                "target_id": "Universit\u00e9 Sorbonne Paris Nord",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Lille",
+                "target_id": "University of Rennes",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Bergen",
+                "target_id": "Link\u00f6ping University",
+                "strength": 4
+            },
+            {
+                "source_id": "Mashhad University of Medical Sciences",
+                "target_id": "Mashhad University of Medical Sciences",
+                "strength": 14
+            },
+            {
+                "source_id": "Mashhad University of Medical Sciences",
+                "target_id": "Iran University of Medical Sciences",
+                "strength": 2
+            },
+            {
+                "source_id": "Mashhad University of Medical Sciences",
+                "target_id": "Tehran University of Medical Sciences",
+                "strength": 4
+            },
+            {
+                "source_id": "Iran University of Medical Sciences",
+                "target_id": "Iran University of Medical Sciences",
+                "strength": 4
+            },
+            {
+                "source_id": "Aalto University",
+                "target_id": "University of Helsinki",
+                "strength": 2
+            },
+            {
+                "source_id": "Aalto University",
+                "target_id": "Uppsala University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Helsinki",
+                "target_id": "Tampere University",
+                "strength": 2
+            },
+            {
+                "source_id": "Taipei Medical University",
+                "target_id": "Taipei Medical University",
+                "strength": 10
+            },
+            {
+                "source_id": "Vanderbilt University",
+                "target_id": "University of Texas Health Science Center at Houston",
+                "strength": 2
+            },
+            {
+                "source_id": "Technische Universit\u00e4t Dresden",
+                "target_id": "Technische Universit\u00e4t Dresden",
+                "strength": 6
+            },
+            {
+                "source_id": "University of Oulu",
+                "target_id": "Delft University of Technology",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Oulu",
+                "target_id": "Universidad de Sevilla",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Oulu",
+                "target_id": "University Hospital North Norway",
+                "strength": 2
+            },
+            {
+                "source_id": "Kyoto University",
+                "target_id": "Kyoto University",
+                "strength": 11
+            },
+            {
+                "source_id": "Kyoto University",
+                "target_id": "Osaka University",
+                "strength": 4
+            },
+            {
+                "source_id": "Kyoto University",
+                "target_id": "Nagoya University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Bordeaux",
+                "target_id": "University of Rennes",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Bordeaux",
+                "target_id": "University of Bordeaux",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Rennes",
+                "target_id": "University of Rennes",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Agder",
+                "target_id": "University of Agder",
+                "strength": 3
+            },
+            {
+                "source_id": "University College London",
+                "target_id": "University College London",
+                "strength": 13
+            },
+            {
+                "source_id": "McGill University",
+                "target_id": "McGill University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Oxford",
+                "target_id": "University of Surrey",
+                "strength": 4
+            },
+            {
+                "source_id": "Amrita University",
+                "target_id": "Amrita University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "University of T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "Reutlingen University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "University Hospital T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "strength": 2
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "University Medicine Greifswald",
+                "strength": 2
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "Heilbronn University of Applied Sciences",
+                "strength": 2
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "Technische Universit\u00e4t Braunschweig",
+                "strength": 2
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "Universit\u00e4tsklinikum Erlangen",
+                "strength": 2
+            },
+            {
+                "source_id": "University of T\u00fcbingen",
+                "target_id": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+                "strength": 2
+            },
+            {
+                "source_id": "Reutlingen University",
+                "target_id": "University Hospital T\u00fcbingen",
+                "strength": 3
+            },
+            {
+                "source_id": "Leipzig University",
+                "target_id": "Leipzig University",
+                "strength": 2
+            },
+            {
+                "source_id": "Leipzig University",
+                "target_id": "University of Duisburg-Essen",
+                "strength": 2
+            },
+            {
+                "source_id": "Leipzig University",
+                "target_id": "Witten/Herdecke University",
+                "strength": 2
+            },
+            {
+                "source_id": "Leipzig University",
+                "target_id": "Heidelberg University",
+                "strength": 2
+            },
+            {
+                "source_id": "Leipzig University",
+                "target_id": "Eberhard-Karls University T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "Leipzig University",
+                "target_id": "University of Freiburg",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Toronto",
+                "target_id": "University of Victoria",
+                "strength": 6
+            },
+            {
+                "source_id": "University of Toronto",
+                "target_id": "Universit\u00e9 de Sherbrooke",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Toronto",
+                "target_id": "Ryerson University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Toronto",
+                "target_id": "York University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Toronto",
+                "target_id": "University of Waterloo",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Toronto",
+                "target_id": "University of Oklahoma",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Toronto",
+                "target_id": "University of Chicago",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Victoria",
+                "target_id": "City University London",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Victoria",
+                "target_id": "University of Victoria",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Victoria",
+                "target_id": "Universit\u00e9 de Sherbrooke",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Victoria",
+                "target_id": "University of Oklahoma",
+                "strength": 7
+            },
+            {
+                "source_id": "University of Victoria",
+                "target_id": "University of Chicago",
+                "strength": 2
+            },
+            {
+                "source_id": "Osaka University",
+                "target_id": "Osaka University",
+                "strength": 6
+            },
+            {
+                "source_id": "University Hospital Heidelberg",
+                "target_id": "University Hospital Heidelberg",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Heidelberg",
+                "target_id": "University of Leipzig",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Leipzig",
+                "target_id": "University Medicine Greifswald",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Leipzig",
+                "target_id": "Ludwig Maximilian University of Munich",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Leipzig",
+                "target_id": "University of L\u00fcbeck",
+                "strength": 4
+            },
+            {
+                "source_id": "Heidelberg University",
+                "target_id": "Heidelberg University",
+                "strength": 3
+            },
+            {
+                "source_id": "Heidelberg University",
+                "target_id": "University of Duisburg-Essen",
+                "strength": 2
+            },
+            {
+                "source_id": "Heidelberg University",
+                "target_id": "Witten/Herdecke University",
+                "strength": 2
+            },
+            {
+                "source_id": "Heidelberg University",
+                "target_id": "University Medicine Greifswald",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Genoa",
+                "target_id": "University of Genoa",
+                "strength": 4
+            },
+            {
+                "source_id": "University Medical Center G\u00f6ttingen",
+                "target_id": "University Medical Center G\u00f6ttingen",
+                "strength": 2
+            },
+            {
+                "source_id": "University Medical Center G\u00f6ttingen",
+                "target_id": "University Hospital T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "University Medical Center G\u00f6ttingen",
+                "target_id": "University Medicine Greifswald",
+                "strength": 2
+            },
+            {
+                "source_id": "University of L\u00fcbeck",
+                "target_id": "University of L\u00fcbeck",
+                "strength": 17
+            },
+            {
+                "source_id": "University of Leeds",
+                "target_id": "University of Leeds",
+                "strength": 13
+            },
+            {
+                "source_id": "University of Leeds",
+                "target_id": "Columbia University",
+                "strength": 5
+            },
+            {
+                "source_id": "Universidade da Coru\u00f1a",
+                "target_id": "Universidade da Coru\u00f1a",
+                "strength": 2
+            },
+            {
+                "source_id": "UiT The Arctic University of Norway",
+                "target_id": "University Hospital of North Norway",
+                "strength": 5
+            },
+            {
+                "source_id": "UiT The Arctic University of Norway",
+                "target_id": "UiT The Arctic University of Norway",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital of North Norway",
+                "target_id": "Bern University of Applied Sciences",
+                "strength": 2
+            },
+            {
+                "source_id": "City University London",
+                "target_id": "City University London",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Applied Sciences Technikum Wien",
+                "target_id": "University of Applied Sciences Technikum Wien",
+                "strength": 2
+            },
+            {
+                "source_id": "Columbia University",
+                "target_id": "University of British Columbia",
+                "strength": 2
+            },
+            {
+                "source_id": "Columbia University",
+                "target_id": "Columbia University",
+                "strength": 9
+            },
+            {
+                "source_id": "Columbia University",
+                "target_id": "Clemson University",
+                "strength": 2
+            },
+            {
+                "source_id": "Columbia University",
+                "target_id": "Stanford University",
+                "strength": 2
+            },
+            {
+                "source_id": "Columbia University",
+                "target_id": "University of Pennsylvania",
+                "strength": 4
+            },
+            {
+                "source_id": "Columbia University",
+                "target_id": "University of Pennsylvania School of Nursing",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Regensburg",
+                "target_id": "University of Cauca",
+                "strength": 4
+            },
+            {
+                "source_id": "Dokuz Eylul University",
+                "target_id": "Dokuz Eylul University",
+                "strength": 2
+            },
+            {
+                "source_id": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "target_id": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "strength": 3
+            },
+            {
+                "source_id": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "target_id": "Universit\u00e4tsklinikum Erlangen",
+                "strength": 2
+            },
+            {
+                "source_id": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "target_id": "Martin-Luther-University Halle-Wittenberg",
+                "strength": 3
+            },
+            {
+                "source_id": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+                "target_id": "Martin Luther University Halle-Wittenberg",
+                "strength": 3
+            },
+            {
+                "source_id": "Dokuz Eyl\u00fcl University",
+                "target_id": "Dokuz Eyl\u00fcl University",
+                "strength": 2
+            },
+            {
+                "source_id": "Medical University",
+                "target_id": "Medical University",
+                "strength": 3
+            },
+            {
+                "source_id": "Friedrich-Alexander-University Erlangen-Nuremberg",
+                "target_id": "Friedrich-Alexander-University Erlangen-Nuremberg",
+                "strength": 6
+            },
+            {
+                "source_id": "RWTH Aachen University",
+                "target_id": "RWTH Aachen University",
+                "strength": 12
+            },
+            {
+                "source_id": "Lund University",
+                "target_id": "Lund University",
+                "strength": 2
+            },
+            {
+                "source_id": "Lund University",
+                "target_id": "Halmstad University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of M\u00fcnster",
+                "target_id": "University of M\u00fcnster",
+                "strength": 6
+            },
+            {
+                "source_id": "Aristotle University of Thessaloniki",
+                "target_id": "Aristotle University of Thessaloniki",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Porto",
+                "target_id": "University of Porto",
+                "strength": 6
+            },
+            {
+                "source_id": "Tehran University of Medical Sciences",
+                "target_id": "Technische Universit\u00e4t Braunschweig",
+                "strength": 3
+            },
+            {
+                "source_id": "Technische Universit\u00e4t Braunschweig",
+                "target_id": "Bielefeld University",
+                "strength": 3
+            },
+            {
+                "source_id": "Technische Universit\u00e4t Braunschweig",
+                "target_id": "Medical Faculty OWL",
+                "strength": 2
+            },
+            {
+                "source_id": "Bielefeld University",
+                "target_id": "Medical Faculty OWL",
+                "strength": 2
+            },
+            {
+                "source_id": "Universidad de Sevilla",
+                "target_id": "Bern University of Applied Sciences",
+                "strength": 3
+            },
+            {
+                "source_id": "Universidad de Sevilla",
+                "target_id": "Delft University of Technology",
+                "strength": 2
+            },
+            {
+                "source_id": "Universidad de Sevilla",
+                "target_id": "Universidad de Sevilla",
+                "strength": 2
+            },
+            {
+                "source_id": "Universidad de Sevilla",
+                "target_id": "University Hospital North Norway",
+                "strength": 2
+            },
+            {
+                "source_id": "The Catholic University of Korea",
+                "target_id": "The Catholic University of Korea",
+                "strength": 9
+            },
+            {
+                "source_id": "Seoul National University",
+                "target_id": "Seoul National University",
+                "strength": 5
+            },
+            {
+                "source_id": "Sorbonne Universit\u00e9",
+                "target_id": "Sorbonne Universit\u00e9",
+                "strength": 3
+            },
+            {
+                "source_id": "Sorbonne Universit\u00e9",
+                "target_id": "Universit\u00e9 de Paris",
+                "strength": 4
+            },
+            {
+                "source_id": "Sorbonne Universit\u00e9",
+                "target_id": "AP-HP",
+                "strength": 2
+            },
+            {
+                "source_id": "Universit\u00e9 Paris-Saclay",
+                "target_id": "University of Warwick",
+                "strength": 2
+            },
+            {
+                "source_id": "Universit\u00e9 Paris-Saclay",
+                "target_id": "University of Birmingham",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Warwick",
+                "target_id": "University of Birmingham",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital T\u00fcbingen",
+                "target_id": "University Hospital T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "University Medicine Greifswald",
+                "target_id": "University Medicine Greifswald",
+                "strength": 29
+            },
+            {
+                "source_id": "University Medicine Greifswald",
+                "target_id": "Technical University of Munich",
+                "strength": 2
+            },
+            {
+                "source_id": "University Medicine Greifswald",
+                "target_id": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+                "strength": 3
+            },
+            {
+                "source_id": "University Medicine Greifswald",
+                "target_id": "University of Cologne",
+                "strength": 3
+            },
+            {
+                "source_id": "University Medicine Greifswald",
+                "target_id": "Heilbronn University of Applied Sciences",
+                "strength": 2
+            },
+            {
+                "source_id": "Technical University of Munich",
+                "target_id": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+                "strength": 2
+            },
+            {
+                "source_id": "\u00d6rebro University",
+                "target_id": "Uppsala University",
+                "strength": 2
+            },
+            {
+                "source_id": "\u00d6rebro University",
+                "target_id": "Harvard Medical School",
+                "strength": 2
+            },
+            {
+                "source_id": "Uppsala University",
+                "target_id": "Uppsala University",
+                "strength": 6
+            },
+            {
+                "source_id": "Uppsala University",
+                "target_id": "Harvard Medical School",
+                "strength": 2
+            },
+            {
+                "source_id": "Uppsala University",
+                "target_id": "University of Waterloo",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Arkansas for Medical Sciences",
+                "target_id": "Arkansas State University",
+                "strength": 6
+            },
+            {
+                "source_id": "University of Arkansas for Medical Sciences",
+                "target_id": "University of Texas Health Science Center at San Antonio",
+                "strength": 4
+            },
+            {
+                "source_id": "University of Arkansas for Medical Sciences",
+                "target_id": "University of Arkansas for Medical Sciences",
+                "strength": 10
+            },
+            {
+                "source_id": "University of Arkansas for Medical Sciences",
+                "target_id": "Duke University",
+                "strength": 3
+            },
+            {
+                "source_id": "Arkansas State University",
+                "target_id": "University of Texas Health Science Center at San Antonio",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Duisburg-Essen",
+                "target_id": "Witten/Herdecke University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Duisburg-Essen",
+                "target_id": "Eberhard-Karls University T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Duisburg-Essen",
+                "target_id": "University of Freiburg",
+                "strength": 3
+            },
+            {
+                "source_id": "Witten/Herdecke University",
+                "target_id": "Eberhard-Karls University T\u00fcbingen",
+                "strength": 2
+            },
+            {
+                "source_id": "Witten/Herdecke University",
+                "target_id": "University of Freiburg",
+                "strength": 2
+            },
+            {
+                "source_id": "Eberhard-Karls University T\u00fcbingen",
+                "target_id": "University of Freiburg",
+                "strength": 2
+            },
+            {
+                "source_id": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+                "target_id": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+                "strength": 10
+            },
+            {
+                "source_id": "University of Cologne",
+                "target_id": "University of Cologne",
+                "strength": 3
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris Cit\u00e9",
+                "target_id": "Assistance Publique-H\u00f4pitaux de Paris (AP-HP)",
+                "strength": 2
+            },
+            {
+                "source_id": "Assistance Publique-H\u00f4pitaux de Paris (AP-HP)",
+                "target_id": "Universit\u00e9 de Paris",
+                "strength": 2
+            },
+            {
+                "source_id": "Osnabr\u00fcck University",
+                "target_id": "Friedrich-Alexander University Erlangen-N\u00fcrnberg",
+                "strength": 3
+            },
+            {
+                "source_id": "Osnabr\u00fcck University",
+                "target_id": "Osnabr\u00fcck University of Applied Sciences",
+                "strength": 3
+            },
+            {
+                "source_id": "Friedrich-Alexander University Erlangen-N\u00fcrnberg",
+                "target_id": "Osnabr\u00fcck University of Applied Sciences",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Augsburg",
+                "target_id": "University of Augsburg",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital Augsburg",
+                "target_id": "LMU Munich",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Augsburg",
+                "target_id": "University Hospital Augsburg",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Augsburg",
+                "target_id": "Neu-Ulm University of Applied Sciences",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Augsburg",
+                "target_id": "Neu-Ulm University of Applied Sciences",
+                "strength": 4
+            },
+            {
+                "source_id": "Nagoya University",
+                "target_id": "Nagoya University",
+                "strength": 4
+            },
+            {
+                "source_id": "University of Waterloo",
+                "target_id": "University of Waterloo",
+                "strength": 5
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris",
+                "target_id": "AP-HP",
+                "strength": 2
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris",
+                "target_id": "Universit\u00e9 de Paris",
+                "strength": 9
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris",
+                "target_id": "PSL Research University",
+                "strength": 3
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris",
+                "target_id": "HEGP",
+                "strength": 3
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris",
+                "target_id": "Labex OncoImmunology",
+                "strength": 2
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris",
+                "target_id": "University of Paris",
+                "strength": 2
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris",
+                "target_id": "Universit\u00e9 de Paris, Sorbonne Universit\u00e9",
+                "strength": 5
+            },
+            {
+                "source_id": "Universit\u00e9 de Paris, Sorbonne Universit\u00e9",
+                "target_id": "Universit\u00e9 Sorbonne Paris Nord",
+                "strength": 2
+            },
+            {
+                "source_id": "Universit\u00e9 de Sherbrooke",
+                "target_id": "Universit\u00e9 de Montr\u00e9al",
+                "strength": 3
+            },
+            {
+                "source_id": "Universit\u00e9 de Montr\u00e9al",
+                "target_id": "Universit\u00e9 de Montr\u00e9al",
+                "strength": 4
+            },
+            {
+                "source_id": "Universit\u00e9 de Montr\u00e9al",
+                "target_id": "University of Montreal",
+                "strength": 4
+            },
+            {
+                "source_id": "Ludwig Maximilian University of Munich",
+                "target_id": "Neu-Ulm University of Applied Sciences",
+                "strength": 2
+            },
+            {
+                "source_id": "Ludwig Maximilian University of Munich",
+                "target_id": "LMU Munich",
+                "strength": 2
+            },
+            {
+                "source_id": "Neu-Ulm University of Applied Sciences",
+                "target_id": "Kashan University of Medical Sciences",
+                "strength": 4
+            },
+            {
+                "source_id": "AP-HP",
+                "target_id": "AP-HP",
+                "strength": 4
+            },
+            {
+                "source_id": "PSL Research University",
+                "target_id": "HEGP",
+                "strength": 2
+            },
+            {
+                "source_id": "HEGP",
+                "target_id": "Labex OncoImmunology",
+                "strength": 2
+            },
+            {
+                "source_id": "HEGP",
+                "target_id": "University of Paris",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Oklahoma",
+                "target_id": "University of Chicago",
+                "strength": 2
+            },
+            {
+                "source_id": "Aix Marseille University",
+                "target_id": "Aix Marseille University",
+                "strength": 2
+            },
+            {
+                "source_id": "Ryerson University",
+                "target_id": "York University",
+                "strength": 3
+            },
+            {
+                "source_id": "York University",
+                "target_id": "York University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Florida",
+                "target_id": "University of Florida",
+                "strength": 2
+            },
+            {
+                "source_id": "Universit\u00e9 Laval",
+                "target_id": "Universit\u00e9 Laval",
+                "strength": 4
+            },
+            {
+                "source_id": "Universit\u00e9 Laval",
+                "target_id": "University of Montreal",
+                "strength": 2
+            },
+            {
+                "source_id": "Universit\u00e9 Laval",
+                "target_id": "University of Applied Sciences and Arts Western Switzerland",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Kent",
+                "target_id": "University of Surrey",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Trieste",
+                "target_id": "University of Trieste",
+                "strength": 2
+            },
+            {
+                "source_id": "University of California San Francisco",
+                "target_id": "University of California Berkeley",
+                "strength": 2
+            },
+            {
+                "source_id": "University of California San Francisco",
+                "target_id": "University of Central Florida",
+                "strength": 2
+            },
+            {
+                "source_id": "University of California San Francisco",
+                "target_id": "University of California San Francisco",
+                "strength": 2
+            },
+            {
+                "source_id": "University of California Berkeley",
+                "target_id": "University of Central Florida",
+                "strength": 2
+            },
+            {
+                "source_id": "Federal University of Paran\u00e1",
+                "target_id": "Federal University of Paran\u00e1",
+                "strength": 2
+            },
+            {
+                "source_id": "Martin-Luther-University Halle-Wittenberg",
+                "target_id": "Martin-Luther-University Halle-Wittenberg",
+                "strength": 6
+            },
+            {
+                "source_id": "Martin-Luther-University Halle-Wittenberg",
+                "target_id": "Martin Luther University Halle-Wittenberg",
+                "strength": 3
+            },
+            {
+                "source_id": "University of North Carolina",
+                "target_id": "University of North Carolina",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Texas Health Science Center at Houston",
+                "target_id": "University of Texas Health Science Center at Houston",
+                "strength": 3
+            },
+            {
+                "source_id": "University of British Columbia",
+                "target_id": "University of British Columbia",
+                "strength": 4
+            },
+            {
+                "source_id": "University of Texas Health Science Center at San Antonio",
+                "target_id": "Duke University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Latvia",
+                "target_id": "University of Latvia",
+                "strength": 2
+            },
+            {
+                "source_id": "National and Kapodistrian University of Athens",
+                "target_id": "National and Kapodistrian University of Athens",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Fortaleza",
+                "target_id": "University of Fortaleza",
+                "strength": 4
+            },
+            {
+                "source_id": "Mahasarakham University",
+                "target_id": "Mahasarakham University",
+                "strength": 4
+            },
+            {
+                "source_id": "Stanford University",
+                "target_id": "University of Udine",
+                "strength": 2
+            },
+            {
+                "source_id": "Stanford University",
+                "target_id": "Johns Hopkins University",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Udine",
+                "target_id": "Johns Hopkins University",
+                "strength": 2
+            },
+            {
+                "source_id": "Kyushu University",
+                "target_id": "Kyushu University",
+                "strength": 6
+            },
+            {
+                "source_id": "University of Gondar",
+                "target_id": "University of Gondar",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Washington",
+                "target_id": "University of Washington",
+                "strength": 7
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "University Hospital Lausanne",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "University of Basel",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "University Hospital",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "University of Lausanne",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "University of Bern",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "University Hospital Geneva",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "ETH Zurich",
+                "strength": 5
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "University Hospital Zurich",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital Basel",
+                "target_id": "University of Zurich",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Lausanne",
+                "target_id": "University of Bern",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Lausanne",
+                "target_id": "University Hospital Geneva",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital Lausanne",
+                "target_id": "ETH Zurich",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital Lausanne",
+                "target_id": "University Hospital Zurich",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Basel",
+                "target_id": "University of Lausanne",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Basel",
+                "target_id": "University of Bern",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Basel",
+                "target_id": "University Hospital Geneva",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Basel",
+                "target_id": "ETH Zurich",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Basel",
+                "target_id": "University Hospital Zurich",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital",
+                "target_id": "University of Lausanne",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital",
+                "target_id": "University of Bern",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital",
+                "target_id": "University Hospital Geneva",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital",
+                "target_id": "ETH Zurich",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital",
+                "target_id": "University Hospital Zurich",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Lausanne",
+                "target_id": "University of Bern",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Lausanne",
+                "target_id": "University Hospital Geneva",
+                "strength": 5
+            },
+            {
+                "source_id": "University of Lausanne",
+                "target_id": "ETH Zurich",
+                "strength": 5
+            },
+            {
+                "source_id": "University of Lausanne",
+                "target_id": "University Hospital Zurich",
+                "strength": 4
+            },
+            {
+                "source_id": "University of Lausanne",
+                "target_id": "University of Zurich",
+                "strength": 2
+            },
+            {
+                "source_id": "University of Bern",
+                "target_id": "University of Bern",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Bern",
+                "target_id": "University Hospital Geneva",
+                "strength": 8
+            },
+            {
+                "source_id": "University of Bern",
+                "target_id": "ETH Zurich",
+                "strength": 9
+            },
+            {
+                "source_id": "University of Bern",
+                "target_id": "University Hospital Zurich",
+                "strength": 6
+            },
+            {
+                "source_id": "University of Bern",
+                "target_id": "University of Zurich",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital Geneva",
+                "target_id": "ETH Zurich",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Geneva",
+                "target_id": "University Hospital Geneva",
+                "strength": 3
+            },
+            {
+                "source_id": "University Hospital Geneva",
+                "target_id": "University Hospital Zurich",
+                "strength": 6
+            },
+            {
+                "source_id": "University Hospital Geneva",
+                "target_id": "University of Zurich",
+                "strength": 3
+            },
+            {
+                "source_id": "ETH Zurich",
+                "target_id": "University Hospital Zurich",
+                "strength": 3
+            },
+            {
+                "source_id": "ETH Zurich",
+                "target_id": "ETH Zurich",
+                "strength": 3
+            },
+            {
+                "source_id": "ETH Zurich",
+                "target_id": "University of Zurich",
+                "strength": 2
+            },
+            {
+                "source_id": "University Hospital Zurich",
+                "target_id": "University of Zurich",
+                "strength": 4
+            },
+            {
+                "source_id": "University Hospital Zurich",
+                "target_id": "University Hospital Zurich",
+                "strength": 2
+            },
+            {
+                "source_id": "Justus-Liebig-University",
+                "target_id": "Justus-Liebig-University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Rwanda",
+                "target_id": "University of Rwanda",
+                "strength": 36
+            },
+            {
+                "source_id": "Carl von Ossietzky Universit\u00e4t Oldenburg",
+                "target_id": "Carl von Ossietzky Universit\u00e4t Oldenburg",
+                "strength": 3
+            },
+            {
+                "source_id": "Medical University of Vienna",
+                "target_id": "Medical University of Vienna",
+                "strength": 6
+            },
+            {
+                "source_id": "Ben-Gurion University",
+                "target_id": "Ben-Gurion University",
+                "strength": 3
+            },
+            {
+                "source_id": "Kashan University of Medical Sciences",
+                "target_id": "Kashan University of Medical Sciences",
+                "strength": 6
+            },
+            {
+                "source_id": "University of Edinburgh",
+                "target_id": "University of Edinburgh",
+                "strength": 6
+            },
+            {
+                "source_id": "Martin Luther University Halle-Wittenberg",
+                "target_id": "Martin Luther University Halle-Wittenberg",
+                "strength": 3
+            },
+            {
+                "source_id": "Ministry of Public Health",
+                "target_id": "Srinakharinwirot University",
+                "strength": 2
+            },
+            {
+                "source_id": "Ministry of Public Health",
+                "target_id": "Thammasat University",
+                "strength": 2
+            },
+            {
+                "source_id": "Ministry of Public Health",
+                "target_id": "Chiang Mai University",
+                "strength": 3
+            },
+            {
+                "source_id": "Srinakharinwirot University",
+                "target_id": "Thammasat University",
+                "strength": 3
+            },
+            {
+                "source_id": "Srinakharinwirot University",
+                "target_id": "Chiang Mai University",
+                "strength": 2
+            },
+            {
+                "source_id": "Thammasat University",
+                "target_id": "Chiang Mai University",
+                "strength": 3
+            },
+            {
+                "source_id": "Kiel University",
+                "target_id": "Kiel University",
+                "strength": 3
+            },
+            {
+                "source_id": "University of Pennsylvania",
+                "target_id": "University of Pennsylvania School of Nursing",
+                "strength": 2
+            }
+        ]
+    }
+}

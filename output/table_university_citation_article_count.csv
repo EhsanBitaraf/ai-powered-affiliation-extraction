@@ -1,0 +1,353 @@
+,universityf,citation_count,article_count
+0,No Uni,302,204
+1,University of Amsterdam  ,217,65
+2,University of Lille,165,83
+3,University of Geneva,135,82
+4,University of Münster  ,97,49
+5,University of Victoria,93,60
+6,University of Manchester,89,32
+7,University at Buffalo,74,16
+8,University of Erlangen-Nürnberg,72,24
+9,University of Lübeck  ,71,29
+10,Maastricht University  ,71,32
+11,Justus Liebig University Giessen,66,24
+12,University of Utah,61,14
+13,Sorbonne University,60,75
+14,University of Arkansas,56,15
+15,Johns Hopkins University,52,9
+16,Friedrich-Alexander University Erlangen-Nürnberg  ,51,17
+17,University of Heidelberg,50,21
+18,Harvard University,49,10
+19,Université Paris Descartes,48,25
+20,Columbia University,45,24
+21,University of Montpellier,45,15
+22,University College London,44,19
+23,University of Rennes 1,42,29
+24,Charité - Universitätsmedizin Berlin,39,39
+25,University of Leeds,39,11
+26,Technische Universität Braunschweig  ,38,35
+27,University of Pavia  ,38,29
+28,University of Surrey,36,9
+29,University of Tübingen  ,36,8
+30,University of Leipzig  ,36,21
+31,Ludwig Maximilian University of Munich,36,27
+32,University of Zurich,35,7
+33,Technical University of Braunschweig,33,25
+34,Université Paris 13,33,21
+35,Technische Universität Dresden  ,30,23
+36,ETH Zurich,30,7
+37,University of Greifswald,29,19
+38,Vrije Universiteit Amsterdam  ,28,7
+39,Erasmus University  ,27,15
+40,Hannover Medical School,27,10
+41,University of Regensburg  ,26,15
+42,University of Bordeaux,26,14
+43,University of Udine  ,26,16
+44,Kingston University,26,3
+45,No Uni  ,25,21
+46,University of Heidelberg  ,25,31
+47,University of Genoa  ,24,21
+48,Leipzig University,23,14
+49,Eindhoven University of Technology  ,22,6
+50,University of Giessen  ,22,13
+51,Friedrich Schiller University Jena  ,22,8
+52,Heidelberg University,21,23
+53,Duke University,21,6
+54,Saarland University  ,21,10
+55,Heilbronn University of Applied Sciences,21,15
+56,University of Texas Health Science Center at Houston,21,7
+57,University of Texas Health Science Center at San Antonio,21,9
+58,University of Rennes,20,28
+59,University of Grenoble Alpes,20,7
+60,University of Rouen,20,14
+61,University of Saint Etienne,19,9
+62,University of Münster,18,4
+63,University of Twente  ,18,9
+64,University of Paris,18,16
+65,Leiden University  ,17,12
+66,University of York,17,9
+67,Technische Universität München  ,17,20
+68,RWTH Aachen University  ,17,32
+69,University of Duisburg-Essen,17,12
+70,Carl von Ossietzky University Oldenburg,17,11
+71,Heinrich Heine University Düsseldorf,16,10
+72,University of Basel,16,6
+73,Friedrich-Alexander-Universität Erlangen-Nürnberg  ,16,3
+74,University of Tennessee Health Science Center,16,5
+75,University of Freiburg  ,15,12
+76,Imperial College London,15,9
+77,University of Nebraska,14,3
+78,University of Nottingham,14,7
+79,University of Naples Federico II  ,14,10
+80,Université Pierre et Marie Curie,14,15
+81,University of Jena,13,6
+82,King's College London,13,9
+83,University of North Carolina at Chapel Hill,13,3
+84,Saarland University,13,1
+85,Sapienza University of Rome  ,13,14
+86,Deggendorf Institute of Technology  ,13,4
+87,University of Göttingen,12,15
+88,Niederrhein University of Applied Sciences,12,5
+89,Witten/Herdecke University  ,12,4
+90,Otto von Guericke University Magdeburg  ,12,9
+91,Medical University of South Carolina,12,1
+92,University of Lausanne,11,11
+93,University Jean Monnet,11,6
+94,University of Oxford,11,10
+95,State University of New York,11,2
+96,Indiana University,11,4
+97,"City, University of London",10,6
+98,University of Florida,10,5
+99,University of Texas at Austin,10,1
+100,University of Augsburg,10,12
+101,Radboud University  ,9,6
+102,University of the Mediterranean,9,8
+103,Florida State University,9,1
+104,University of Minnesota,9,5
+105,University of Alabama at Birmingham,9,4
+106,University of Burgundy,9,4
+107,University of Applied Sciences and Arts Western Switzerland,8,10
+108,Stanford University,8,6
+109,University of Bonn,8,8
+110,Arizona State University,8,3
+111,University of Sussex,8,2
+112,Wake Forest University,8,1
+113,Leipzig University  ,7,4
+114,University of Oklahoma,7,8
+115,Northumbria University,7,1
+116,Arkansas State University,7,6
+117,University of Freiburg,7,4
+118,Bielefeld University,7,6
+119,Philipps University Marburg  ,7,6
+120,University of Duisburg-Essen  ,7,9
+121,University of Cincinnati,7,1
+122,State University of New York Downstate Health Sciences University,6,5
+123,University of Potsdam  ,6,4
+124,University of Cologne,6,12
+125,University of Bern,6,2
+126,Osnabrück University of Applied Sciences,6,3
+127,University Sorbonne Paris Nord,5,10
+128,University of Georgia,5,1
+129,Utah State University,5,1
+130,Vanderbilt University,5,10
+131,University of Aberdeen,5,2
+132,Brunel University,5,6
+133,Université Paris Cité,5,6
+134,Boston University,5,2
+135,University of Wolverhampton,5,1
+136,University of Texas Health Science Center,5,5
+137,Yale University,5,1
+138,University of Bristol,5,5
+139,University of Strathclyde,5,2
+140,University of Lorraine,5,3
+141,Niederrhein University of Applied Sciences  ,5,2
+142,Ludwig Maximilian University of Munich  ,5,12
+143,University of Glasgow,5,2
+144,Newcastle University,5,5
+145,Neu-Ulm University of Applied Sciences  ,5,11
+146,Leibniz University Hannover,5,2
+147,Heriot-Watt University,5,2
+148,University of Portsmouth,4,7
+149,University of Huddersfield,4,1
+150,Queen Mary University of London,4,3
+151,University of Göttingen  ,4,5
+152,University of Milan  ,4,5
+153,University of Salento  ,4,1
+154,Université Paris-Saclay,4,15
+155,"St George's, University of London",4,2
+156,Ruhr University Bochum  ,4,2
+157,Massachusetts Institute of Technology,4,1
+158,Delft University of Technology  ,4,3
+159,Osnabrück University  ,4,6
+160,University of Leipzig,4,3
+161,University of Washington,4,9
+162,Harz University of Applied Sciences,4,2
+163,Saxion University of Applied Sciences  ,4,2
+164,City University of New York,4,1
+165,University of Milano-Bicocca  ,3,5
+166,University of Sheffield,3,1
+167,University of Pennsylvania,3,4
+168,Université Sorbonne Paris Cité,3,3
+169,University of Würzburg,3,4
+170,University of Regensburg,3,3
+171,University of Warwick,3,8
+172,University of Wales Trinity Saint David,3,4
+173,University of Pittsburgh,3,5
+174,Aix-Marseille University,3,6
+175,Johannes Gutenberg University Mainz  ,3,2
+176,Purdue University Northwest,3,4
+177,Aston University,3,1
+178,Chemnitz University of Technology  ,3,1
+179,Hannover University of Applied Sciences and Arts,3,1
+180,Heidelberg University  ,3,2
+181,Keele University,3,9
+182,LMU Munich,3,3
+183,Mittweida University of Applied Sciences,3,1
+184,No Uni   ,3,4
+185,Old Dominion University,3,1
+186,Politecnico di Milano  ,3,3
+187,École Polytechnique Fédérale de Lausanne,3,3
+188,"University of California, San Francisco",2,3
+189,Nottingham Trent University,2,1
+190,University of Trento  ,2,2
+191,University of Arizona,2,1
+192,University of Trieste  ,2,4
+193,Catholic University of Eichstätt-Ingolstadt,2,3
+194,University of Ulster,2,5
+195,Cornell University,2,3
+196,Université Paris-Est Créteil,2,3
+197,University of Edinburgh,2,4
+198,University of Reims Champagne-Ardenne,2,3
+199,University of Dundee,2,1
+200,University of L'Aquila  ,2,2
+201,University of Technology of Troyes,2,1
+202,Windesheim University of Applied Sciences  ,2,1
+203,University of Rostock  ,2,11
+204,University of Tübingen,2,4
+205,Manchester Metropolitan University,2,2
+206,University of South Florida,2,1
+207,Sheffield Hallam University,2,2
+208,Free University of Berlin  ,1,6
+209,University of Central Florida,1,3
+210,University of Missouri,1,4
+211,New Jersey Institute of Technology,1,1
+212,ESIEE Paris,1,1
+213,University of St Andrews,1,5
+214,"University of California, Berkeley",1,3
+215,London School of Hygiene & Tropical Medicine,1,6
+216,University of Oldenburg  ,1,3
+217,University of Ulm  ,1,4
+218,Leeds Beckett University,1,1
+219,Lancaster University,1,2
+220,University of Turin  ,1,1
+221,Amsterdam University of Applied Sciences  ,1,1
+222,Johannes Gutenberg University Mainz,1,6
+223,Grand Canyon University,1,1
+224,Institut National des Sciences Appliquées de Lyon,1,3
+225,University of Tennessee,1,1
+226,Hochschule Niederrhein,1,3
+227,University of Brest,1,2
+228,University of South Carolina,1,1
+229,University of London,1,1
+230,University of Magdeburg  ,1,4
+231,University of Würzburg  ,1,3
+232,University of the West of England,1,2
+233,University of Birmingham,1,9
+234,University of Cologne  ,1,2
+235,Brandenburg Medical School Theodor Fontane,1,1
+236,Case Western Reserve University,1,1
+237,Utrecht University  ,1,10
+238,Catholic University of Applied Sciences Munich,1,1
+239,TU Dortmund University,1,4
+240,Centrale Lille,1,2
+241,Reutlingen University  ,1,7
+242,University of Hamburg,1,1
+243,University of Giessen,1,3
+244,University of St. Gallen,1,3
+245,Oxford Brookes University,1,3
+246,University of Cambridge,1,3
+247,De Montfort University,1,3
+248,Osnabrück University of Applied Sciences  ,1,3
+249,University of Strasbourg,0,1
+250,Duquesne University,0,1
+251,University of Stirling,0,1
+252,Université de Neuchâtel,0,1
+253,Dortmund University of Applied Sciences and Arts,0,2
+254,Grand Valley State University,0,1
+255,Gustave Eiffel University,0,2
+256,Wright State University,0,1
+257,Brighton and Sussex Medical School,0,1
+258,HTW Saar,0,1
+259,Drexel University,0,1
+260,University of Texas Southwestern Medical Center,0,1
+261,HAN University of Applied Sciences  ,0,1
+262,HTW Berlin,0,1
+263,University of Stuttgart  ,0,1
+264,Berlin School of Economics and Law,0,1
+265,Goethe University Frankfurt,0,2
+266,University of Verona,0,1
+267,Universität Ulm  ,0,1
+268,Université Polytechnique Hauts-de-France,0,1
+269,Université Catholique de Lille,0,2
+270,Université PSL,0,2
+271,University of Veterinary Medicine Hannover  ,0,1
+272,Frankfurt University of Applied Sciences,0,1
+273,Clemson University,0,3
+274,Free University of Bolzano-Bozen  ,0,1
+275,Furtwangen University,0,2
+276,University of Brescia  ,0,1
+277,CentraleSupélec,0,1
+278,George Mason University,0,2
+279,Fordham University,0,1
+280,Université Paris-Sud,0,2
+281,Université Paul-Valéry,0,4
+282,Dresden University of Technology  ,0,2
+283,Catholic University of the Sacred Heart  ,0,2
+284,University of Tours,0,3
+285,University of Toulouse 1 Capitole,0,1
+286,Georgetown University,0,1
+287,Inholland University of Applied Sciences  ,0,1
+288,University of Southern California,0,2
+289,University of Southampton,0,1
+290,University of Lincoln,0,1
+291,"University of California, Los Angeles",0,1
+292,Oregon Health & Science University,0,1
+293,University of Kent,0,1
+294,University of Kansas,0,1
+295,University of Hertfordshire,0,2
+296,Queen's University Belfast,0,8
+297,RWTH Aachen University,0,3
+298,University of Hannover  ,0,1
+299,Robert Gordon University,0,1
+300,University of Groningen  ,0,1
+301,"Royal Holloway, University of London",0,1
+302,University of Greifswald  ,0,2
+303,Rutgers University,0,2
+304,Santa Clara University,0,1
+305,University of Glamorgan,0,1
+306,Southern Illinois University,0,1
+307,Swansea University,0,1
+308,Technische Hochschule Augsburg  ,0,1
+309,Technische Universität Berlin  ,0,2
+310,Technische Universität Darmstadt  ,0,1
+311,Technische Universität Ilmenau  ,0,1
+312,University of Eastern Piedmont  ,0,1
+313,Texas Tech University,0,1
+314,Tilburg University  ,0,1
+315,University of Colorado,0,1
+316,University Clermont Auvergne,0,1
+317,University Côte d'Azur,0,1
+318,University of Chicago,0,1
+319,University of Lyon,0,2
+320,New York University,0,1
+321,University of Magna Graecia  ,0,1
+322,Justus Liebig University Giessen and Philipps University of Marburg,0,1
+323,Hannover Medical School  ,0,3
+324,University of Salford,0,2
+325,University of Bari Aldo Moro  ,0,1
+326,University of Rouen Normandie,0,3
+327,Heilbronn University  ,0,1
+328,Hochschule Hannover,0,2
+329,Humboldt University of Berlin,0,1
+330,IMT Atlantique,0,2
+331,University of Central Lancashire,0,2
+332,University of Plymouth,0,3
+333,Institut Polytechnique de Paris,0,1
+334,University of Pisa  ,0,1
+335,University of Picardie Jules Verne,0,1
+336,University of Padua  ,0,2
+337,University of Maryland,0,1
+338,University of Osnabrück  ,0,1
+339,Kiel University,0,9
+340,University of Calabria  ,0,1
+341,University of Notre Dame,0,1
+342,University of North Texas,0,1
+343,University of North Carolina,0,1
+344,University of Nice,0,5
+345,Lehigh University,0,1
+346,University of Nantes,0,2
+347,Martin Luther University Halle-Wittenberg  ,0,3
+348,University of California,0,2
+349,Mittweida University of Applied Sciences  ,0,1
+350,Münster University of Applied Sciences,0,2
+351,University of Bologna  ,0,6
