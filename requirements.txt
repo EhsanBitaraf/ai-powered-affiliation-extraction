@@ -1,9 +1,15 @@
+git+https://github.com/EhsanBitaraf/triple-a.git
+ipykernel
+jupyter
 pandas
 matplotlib
 networkx
-langflow
+
+scikit-learn
 seaborn
 geopandas
 geodatasets
 pycountry
 folium
+plotly
+langflow
