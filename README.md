@@ -114,10 +114,8 @@ This map visualizes the global distribution of published articles, offering a sp
 
 ![](/output/articles_by_country_map.png)
 
-**countries_co_occurrence**  
+**Countries Collabration**  
 This network analysis file and visualization show how often countries collaborate, mapping the structure of international research cooperation
-
-[VOSviewer json file](/output/vos_viewer_countries_co_occurrence.json)
 
 ![VOSviewer](/output/vos_viewer_countries_co_occurrence.png)
 
@@ -149,19 +147,19 @@ After modifying the [MIE Dataset](https://doi.org/10.6084/m9.figshare.27174759) 
 
 structural_affiliations fields sample:
 ```json
-        "structural_affiliations": [
-            {
-                "country": "",
-                "institute": "",
-                "department": "",
-                "university": "",
-                "city": "",
-                "postalcode": "",
-                "email": "",
-                "Status": "",
-                "universityf": ""
-            }
-        ]
+  "structural_affiliations": [
+      {
+          "country": "",
+          "institute": "",
+          "department": "",
+          "university": "",
+          "city": "",
+          "postalcode": "",
+          "email": "",
+          "Status": "",
+          "universityf": ""
+      }
+  ]
 ```
 
 ![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/EhsanBitaraf/ai-powered-affiliation-extraction/total)
