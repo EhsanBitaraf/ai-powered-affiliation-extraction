@@ -10,6 +10,7 @@ We use [Semantic Versioning](https://semver.org/)
 - Add `lib_co_occurrence.py` but not use.
 
 ### Bug Fixes
+- Fix `institutions_comparison_table`
 - Delete `convert-csv.py`
 - Fix `bibliometric-analysis.ipynb`
 

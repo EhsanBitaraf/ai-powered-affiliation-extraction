@@ -126,7 +126,7 @@ This network analysis file and visualization show how often countries collaborat
 
 This section presents data on research output and citation impact at the institutional level, allowing comparison of the most productive and influential institutes in the field.
 
-![institutions_comparison_tables](/output/institutions_comparison_tables.png)
+![institutions_comparison_tables](/output/institutions_comparison_table.png)
 
 ## University
 
