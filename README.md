@@ -3,6 +3,20 @@
 This repository contains detailed bibliometric analyses of MIE Conferences to be published at MIE 2025.
 
 
+# Table of contents
+
+- [Result](#result)
+  - [General Information](#general-information)
+  - [Publication and citation trend](#publication-and-citation-trend)
+  - [Authors](#authors)
+  - [Countries](#countries)
+  - [Institute](#institute)
+  - [University](#university)
+  - [Keywords](#keywords)
+- [Data Availability](#data-availability)
+- [Citation](#citing)
+- [Contributors](#contributors)
+- [License](#license)
 ---
 
 In this repository, we have used the [conference MIE dataset](https://doi.org/10.6084/m9.figshare.27174759) and transformed the affiliation information into a structured form through a pipeline designed with langflow (Fig. 1) using the gpt-3.5-turbo-0125 model. We used a [prompt](/docs/prompt1.md) for this purpose and received the outputs in json form. Then we analyzed it
@@ -12,7 +26,7 @@ In this repository, we have used the [conference MIE dataset](https://doi.org/10
 ![Fig 1. The pipeline of langflow](/docs/langflow-pipeline.png)
 
 
-# Result
+# Results
 All output is generated using the Python programming language and is available [here](/bibliometric-analysis.ipynb).
 
 ## General Information
@@ -57,18 +71,14 @@ This section analyzes how citations accumulate annually and cumulatively, and ma
 
 ## Authors
 **Top Authors by Articles and Citations**  
-This section lists the most prolific and cited authors, identifying key contributors and thought leaders whose work has shaped the field’s development
-
-[CSV](/output/table_authors_citation_article_count.csv)
-
+This section lists the most cited authors, identifying key contributors and research leaders whose work has shaped the field’s development.
 
 ![](/output/authors_comparison_tables.png)
+
 
 ## Countries
 
 This section examines the geographical distribution of research output and impact, showing which countries contribute most to publications and citations, and how their roles have evolved over time. It also visualizes collaboration patterns and research productivity through various charts and maps
-
-[CSV](/output/table_countries_citation_article_count.csv)
 
 ![](/output/country_comparison_tables.png)
 
@@ -90,21 +100,17 @@ These bubble charts provide a comparative, visual representation of the top publ
 **Citation per Article Index by Country**  
 This section compares countries based on the average citations per article, highlighting differences in research impact and influence.
 
-[CSV](/output/table_countries_index.csv)
-
 ![](/output/top_25_countries_citation_per_article_index.png)
 
 
 **Heatmap of Top 10 Country Co-occurrence**  
 The heatmap illustrates collaboration intensity among the top countries, revealing international research networks and partnerships.
 
-
 ![](/output/top_10_country_co_occurrence_heatmap.png)
 
 
 **Number of Articles geomap**  
 This map visualizes the global distribution of published articles, offering a spatial perspective on research activity.
-
 
 ![](/output/articles_by_country_map.png)
 
@@ -116,23 +122,17 @@ This network analysis file and visualization show how often countries collaborat
 ![VOSviewer](/output/vos_viewer_countries_co_occurrence.png)
 
 
-
-
 ## Institute
 
 This section presents data on research output and citation impact at the institutional level, allowing comparison of the most productive and influential institutes in the field.
 
-[CSV](/output/table_institute_citation_article_count.csv)
-
-![](/output/institutions_comparison_tables.png)
+![institutions_comparison_tables](/output/institutions_comparison_tables.png)
 
 ## University
 
 Here, the focus narrows to universities, showing their publication and citation metrics, as well as their collaboration networks, often visualized using network analysis tools like VOSviewer.
 
 ![](/output/universities_comparison_tables.png)
-
-[VOSviewer json file](/output/vos_viewer_universities_co_occurrence.json)
 
 ![VOSviewer](/output/vos_viewer_universities_co_occurrence0.png)
 
@@ -142,7 +142,38 @@ This section analyzes the most frequently used keywords in publications, reveali
 
 ![](/output/top_keywords_in_annual_publications.png)
 
-[VOSviewer json file](/output/vos_viewer_keyword_co_occurrence.json)
-
 ![VOSviewer](/output/vos_viewer_keyword_co_occurrence.png)
 
+# Data Availability
+After modifying the [MIE Dataset](https://doi.org/10.6084/m9.figshare.27174759) and using LLM, a new structure called `structural_affiliations` was added to the previous dataset, which contains the following fields. The final dataset can be found [here](/data/dataset-mie.json).
+
+structural_affiliations fields sample:
+```json
+        "structural_affiliations": [
+            {
+                "country": "",
+                "institute": "",
+                "department": "",
+                "university": "",
+                "city": "",
+                "postalcode": "",
+                "email": "",
+                "Status": "",
+                "universityf": ""
+            }
+        ]
+```
+
+![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/EhsanBitaraf/ai-powered-affiliation-extraction/total)
+
+# Citation
+
+# Contributors
+
+Please see our [contributing guidelines](CONTRIBUTING.md) for more details on how to get involved.
+
+---
+
+# License
+
+This Repository is available under the [CC0-1.0 license](LICENSE).

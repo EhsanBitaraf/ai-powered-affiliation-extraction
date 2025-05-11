@@ -5,9 +5,11 @@ We use [Semantic Versioning](https://semver.org/)
 ## v0.0.1 - 2024-10-07
 
 ### Improvements
-Complete `README.md`
-Add `lib_co_occurrence.py`
+- Add Final Dataset
+- Complete `README.md`
+- Add `lib_co_occurrence.py` but not use.
 
 ### Bug Fixes
-Fix `bibliometric-analysis.ipynb`
+- Delete `convert-csv.py`
+- Fix `bibliometric-analysis.ipynb`
 

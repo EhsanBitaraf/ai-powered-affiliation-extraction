@@ -66,7 +66,7 @@ class CoOccurrenceCalculator:
 
 
     _author_blacklist = [
-        "Ali",
+        "A",
     ]
 #endregion
 
@@ -95,12 +95,18 @@ class CoOccurrenceCalculator:
                 self.countries_co_occurrence_matrix[(countries[i], countries[j])] += 1
 
     def _co_occurring_universities_from_structural(self, structural_affiliations):
-        uni_field = "university"
+        
+        # uni_field = "university"
+        uni_field = "universityf" # after manually clean
         universities = []
         for c in structural_affiliations:
             if c[uni_field] is not None:
                 if c[uni_field] != "":
-                    if c[uni_field] != "No Uni" or c[uni_field] != "University":
+                    if c[uni_field] == "No Uni":
+                        pass
+                    elif c[uni_field] == "University":
+                        pass
+                    else:
                         universities.append(c[uni_field])
         for i in range(len(universities)):
             for j in range(i+1, len(universities)):

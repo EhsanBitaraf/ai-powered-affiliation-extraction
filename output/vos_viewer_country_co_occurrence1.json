@@ -1,0 +1,2909 @@
+{
+    "network": {
+        "items": [
+            {
+                "id": "GB",
+                "label": "GB",
+                "x": -0.2507,
+                "y": -0.4706
+            },
+            {
+                "id": "DE",
+                "label": "DE",
+                "x": -1.0663,
+                "y": -0.9059
+            },
+            {
+                "id": "RO",
+                "label": "RO",
+                "x": -0.7016,
+                "y": -0.5742
+            },
+            {
+                "id": "ES",
+                "label": "ES",
+                "x": -0.9065,
+                "y": -1.0311
+            },
+            {
+                "id": "CA",
+                "label": "CA",
+                "x": -0.3711,
+                "y": -0.9212
+            },
+            {
+                "id": NaN,
+                "label": NaN,
+                "x": -1.0213,
+                "y": -0.8073
+            },
+            {
+                "id": "FI",
+                "label": "FI",
+                "x": -0.4948,
+                "y": -0.486
+            },
+            {
+                "id": "FR",
+                "label": "FR",
+                "x": -0.7355,
+                "y": -0.7079
+            },
+            {
+                "id": "BA",
+                "label": "BA",
+                "x": -0.2467,
+                "y": -0.0365
+            },
+            {
+                "id": "IT",
+                "label": "IT",
+                "x": -0.8982,
+                "y": -1.1441
+            },
+            {
+                "id": "HR",
+                "label": "HR",
+                "x": -0.9453,
+                "y": 0.0726
+            },
+            {
+                "id": "DK",
+                "label": "DK",
+                "x": -0.622,
+                "y": -0.5808
+            },
+            {
+                "id": "NO",
+                "label": "NO",
+                "x": 0.1553,
+                "y": -0.9256
+            },
+            {
+                "id": "BR",
+                "label": "BR",
+                "x": 0.131,
+                "y": -0.6333
+            },
+            {
+                "id": "LT",
+                "label": "LT",
+                "x": -1.0908,
+                "y": -1.0004
+            },
+            {
+                "id": "CH",
+                "label": "CH",
+                "x": -0.4383,
+                "y": -0.1031
+            },
+            {
+                "id": "SE",
+                "label": "SE",
+                "x": 0.0742,
+                "y": -0.4698
+            },
+            {
+                "id": "PL",
+                "label": "PL",
+                "x": -1.062,
+                "y": -0.1396
+            },
+            {
+                "id": "IL",
+                "label": "IL",
+                "x": -0.1228,
+                "y": -0.6627
+            },
+            {
+                "id": "GR",
+                "label": "GR",
+                "x": -0.3138,
+                "y": -0.8194
+            },
+            {
+                "id": "AT",
+                "label": "AT",
+                "x": 0.1616,
+                "y": -0.9363
+            },
+            {
+                "id": "SI",
+                "label": "SI",
+                "x": -1.0152,
+                "y": -1.0039
+            },
+            {
+                "id": "NL",
+                "label": "NL",
+                "x": -0.7551,
+                "y": 0.1796
+            },
+            {
+                "id": "CZ",
+                "label": "CZ",
+                "x": 0.1916,
+                "y": 0.1901
+            },
+            {
+                "id": "AU",
+                "label": "AU",
+                "x": -1.121,
+                "y": -0.2022
+            },
+            {
+                "id": "US",
+                "label": "US",
+                "x": -0.1941,
+                "y": -1.0262
+            },
+            {
+                "id": "BE",
+                "label": "BE",
+                "x": -0.9901,
+                "y": -0.0518
+            },
+            {
+                "id": "NZ",
+                "label": "NZ",
+                "x": -0.703,
+                "y": -0.0626
+            },
+            {
+                "id": "PT",
+                "label": "PT",
+                "x": -0.3123,
+                "y": -0.4873
+            },
+            {
+                "id": "JP",
+                "label": "JP",
+                "x": -0.8352,
+                "y": 0.0308
+            },
+            {
+                "id": "TR",
+                "label": "TR",
+                "x": -0.497,
+                "y": -0.7072
+            },
+            {
+                "id": "IE",
+                "label": "IE",
+                "x": 0.0326,
+                "y": -0.1241
+            },
+            {
+                "id": "HU",
+                "label": "HU",
+                "x": -0.3433,
+                "y": -0.364
+            },
+            {
+                "id": "CN",
+                "label": "CN",
+                "x": -0.7217,
+                "y": -1.0466
+            },
+            {
+                "id": "RU",
+                "label": "RU",
+                "x": -0.2781,
+                "y": -0.6507
+            },
+            {
+                "id": "TT",
+                "label": "TT",
+                "x": -0.5806,
+                "y": -0.8867
+            },
+            {
+                "id": "TW",
+                "label": "TW",
+                "x": -0.3247,
+                "y": 0.18
+            },
+            {
+                "id": "MY",
+                "label": "MY",
+                "x": -0.4571,
+                "y": -0.6466
+            },
+            {
+                "id": "PH",
+                "label": "PH",
+                "x": -0.378,
+                "y": -0.6228
+            },
+            {
+                "id": "PK",
+                "label": "PK",
+                "x": -1.0207,
+                "y": 0.1051
+            },
+            {
+                "id": "KR",
+                "label": "KR",
+                "x": -0.56,
+                "y": -0.8077
+            },
+            {
+                "id": "SK",
+                "label": "SK",
+                "x": -0.3107,
+                "y": -0.2423
+            },
+            {
+                "id": "UA",
+                "label": "UA",
+                "x": -0.2247,
+                "y": -0.2773
+            },
+            {
+                "id": "MX",
+                "label": "MX",
+                "x": -0.7478,
+                "y": -0.9769
+            },
+            {
+                "id": "SG",
+                "label": "SG",
+                "x": -0.3484,
+                "y": -0.8682
+            },
+            {
+                "id": "AM",
+                "label": "AM",
+                "x": 0.1655,
+                "y": 0.0934
+            },
+            {
+                "id": "RS",
+                "label": "RS",
+                "x": -1.0827,
+                "y": -0.076
+            },
+            {
+                "id": "YU",
+                "label": "YU",
+                "x": 0.1677,
+                "y": -0.0726
+            },
+            {
+                "id": "BG",
+                "label": "BG",
+                "x": -0.6044,
+                "y": -0.4632
+            },
+            {
+                "id": "LB",
+                "label": "LB",
+                "x": -0.8539,
+                "y": -0.2224
+            },
+            {
+                "id": "AR",
+                "label": "AR",
+                "x": -0.9757,
+                "y": -0.9075
+            },
+            {
+                "id": "IR",
+                "label": "IR",
+                "x": -1.0512,
+                "y": -0.5589
+            },
+            {
+                "id": "UG",
+                "label": "UG",
+                "x": -0.7765,
+                "y": -0.2809
+            },
+            {
+                "id": "SL",
+                "label": "SL",
+                "x": -0.0652,
+                "y": -0.9007
+            },
+            {
+                "id": "BF",
+                "label": "BF",
+                "x": 0.0714,
+                "y": -0.4461
+            },
+            {
+                "id": "BN",
+                "label": "BN",
+                "x": -0.5529,
+                "y": -0.278
+            },
+            {
+                "id": "CL",
+                "label": "CL",
+                "x": -0.9466,
+                "y": -0.3345
+            },
+            {
+                "id": "IS",
+                "label": "IS",
+                "x": -0.0366,
+                "y": -0.7973
+            },
+            {
+                "id": "KE",
+                "label": "KE",
+                "x": -0.728,
+                "y": -0.5815
+            },
+            {
+                "id": "CO",
+                "label": "CO",
+                "x": 0.1793,
+                "y": -0.1414
+            },
+            {
+                "id": "IN",
+                "label": "IN",
+                "x": 0.1589,
+                "y": -0.7001
+            },
+            {
+                "id": "TH",
+                "label": "TH",
+                "x": -0.7938,
+                "y": -0.2823
+            },
+            {
+                "id": "EE",
+                "label": "EE",
+                "x": -0.8609,
+                "y": -0.5185
+            },
+            {
+                "id": "SN",
+                "label": "SN",
+                "x": -1.0172,
+                "y": -0.8693
+            },
+            {
+                "id": "MK",
+                "label": "MK",
+                "x": -0.7759,
+                "y": -0.3641
+            },
+            {
+                "id": "ZA",
+                "label": "ZA",
+                "x": 0.0861,
+                "y": -0.3199
+            },
+            {
+                "id": "MT",
+                "label": "MT",
+                "x": -0.1339,
+                "y": -0.6894
+            },
+            {
+                "id": "DZ",
+                "label": "DZ",
+                "x": -0.5967,
+                "y": -0.2703
+            },
+            {
+                "id": "LU",
+                "label": "LU",
+                "x": -0.8588,
+                "y": 0.1761
+            },
+            {
+                "id": "TZ",
+                "label": "TZ",
+                "x": -0.0429,
+                "y": -0.9973
+            },
+            {
+                "id": "ET",
+                "label": "ET",
+                "x": -0.0112,
+                "y": 0.1006
+            },
+            {
+                "id": "SA",
+                "label": "SA",
+                "x": -0.7082,
+                "y": -0.4309
+            },
+            {
+                "id": "KW",
+                "label": "KW",
+                "x": -0.6917,
+                "y": 0.0637
+            },
+            {
+                "id": "DO",
+                "label": "DO",
+                "x": -0.1075,
+                "y": 0.0288
+            },
+            {
+                "id": "CD",
+                "label": "CD",
+                "x": -0.9365,
+                "y": -1.039
+            },
+            {
+                "id": "AE",
+                "label": "AE",
+                "x": -0.757,
+                "y": -0.2239
+            },
+            {
+                "id": "CY",
+                "label": "CY",
+                "x": -0.9384,
+                "y": -0.015
+            },
+            {
+                "id": "CM",
+                "label": "CM",
+                "x": -0.7658,
+                "y": 0.1561
+            },
+            {
+                "id": "ML",
+                "label": "ML",
+                "x": -0.0147,
+                "y": -0.6755
+            },
+            {
+                "id": "SR",
+                "label": "SR",
+                "x": -0.3112,
+                "y": 0.0917
+            },
+            {
+                "id": "GE",
+                "label": "GE",
+                "x": -0.5244,
+                "y": -0.8866
+            },
+            {
+                "id": "ID",
+                "label": "ID",
+                "x": -0.3793,
+                "y": -0.0064
+            },
+            {
+                "id": "QA",
+                "label": "QA",
+                "x": -1.0652,
+                "y": -0.1473
+            },
+            {
+                "id": "JO",
+                "label": "JO",
+                "x": 0.1372,
+                "y": -0.0694
+            },
+            {
+                "id": "LV",
+                "label": "LV",
+                "x": -0.7643,
+                "y": -0.0405
+            },
+            {
+                "id": "PY",
+                "label": "PY",
+                "x": -0.5422,
+                "y": 0.1423
+            },
+            {
+                "id": "VN",
+                "label": "VN",
+                "x": -0.0623,
+                "y": -0.8452
+            },
+            {
+                "id": "BD",
+                "label": "BD",
+                "x": 0.1495,
+                "y": -0.4848
+            },
+            {
+                "id": "CI",
+                "label": "CI",
+                "x": -0.4469,
+                "y": 0.0418
+            },
+            {
+                "id": "KH",
+                "label": "KH",
+                "x": -1.0873,
+                "y": -0.2108
+            },
+            {
+                "id": "PE",
+                "label": "PE",
+                "x": -1.1441,
+                "y": -0.8312
+            },
+            {
+                "id": "RW",
+                "label": "RW",
+                "x": -0.9155,
+                "y": -0.0777
+            },
+            {
+                "id": "HK",
+                "label": "HK",
+                "x": -0.7573,
+                "y": 0.0157
+            },
+            {
+                "id": "ME",
+                "label": "ME",
+                "x": 0.1052,
+                "y": -0.4851
+            },
+            {
+                "id": "MA",
+                "label": "MA",
+                "x": -0.4096,
+                "y": -0.5513
+            },
+            {
+                "id": "EG",
+                "label": "EG",
+                "x": -1.088,
+                "y": -0.6226
+            }
+        ],
+        "links": [
+            {
+                "source_id": "GB",
+                "target_id": "DE",
+                "strength": 22
+            },
+            {
+                "source_id": "GB",
+                "target_id": "ES",
+                "strength": 21
+            },
+            {
+                "source_id": "GB",
+                "target_id": "CA",
+                "strength": 13
+            },
+            {
+                "source_id": "GB",
+                "target_id": "FI",
+                "strength": 10
+            },
+            {
+                "source_id": "GB",
+                "target_id": "FR",
+                "strength": 25
+            },
+            {
+                "source_id": "GB",
+                "target_id": "IT",
+                "strength": 14
+            },
+            {
+                "source_id": "GB",
+                "target_id": "DK",
+                "strength": 14
+            },
+            {
+                "source_id": "GB",
+                "target_id": "NO",
+                "strength": 11
+            },
+            {
+                "source_id": "GB",
+                "target_id": "CH",
+                "strength": 16
+            },
+            {
+                "source_id": "GB",
+                "target_id": "SE",
+                "strength": 19
+            },
+            {
+                "source_id": "GB",
+                "target_id": "PL",
+                "strength": 3
+            },
+            {
+                "source_id": "GB",
+                "target_id": "IL",
+                "strength": 5
+            },
+            {
+                "source_id": "GB",
+                "target_id": "GR",
+                "strength": 17
+            },
+            {
+                "source_id": "GB",
+                "target_id": "AT",
+                "strength": 8
+            },
+            {
+                "source_id": "GB",
+                "target_id": "SI",
+                "strength": 3
+            },
+            {
+                "source_id": "GB",
+                "target_id": "NL",
+                "strength": 24
+            },
+            {
+                "source_id": "GB",
+                "target_id": "AU",
+                "strength": 13
+            },
+            {
+                "source_id": "GB",
+                "target_id": "US",
+                "strength": 32
+            },
+            {
+                "source_id": "GB",
+                "target_id": "BE",
+                "strength": 10
+            },
+            {
+                "source_id": "GB",
+                "target_id": "NZ",
+                "strength": 3
+            },
+            {
+                "source_id": "GB",
+                "target_id": "PT",
+                "strength": 10
+            },
+            {
+                "source_id": "GB",
+                "target_id": "TR",
+                "strength": 6
+            },
+            {
+                "source_id": "GB",
+                "target_id": "IE",
+                "strength": 10
+            },
+            {
+                "source_id": "GB",
+                "target_id": "CN",
+                "strength": 2
+            },
+            {
+                "source_id": "GB",
+                "target_id": "UA",
+                "strength": 8
+            },
+            {
+                "source_id": "GB",
+                "target_id": "AR",
+                "strength": 1
+            },
+            {
+                "source_id": "GB",
+                "target_id": "IR",
+                "strength": 5
+            },
+            {
+                "source_id": "GB",
+                "target_id": "CL",
+                "strength": 6
+            },
+            {
+                "source_id": "GB",
+                "target_id": "IS",
+                "strength": 1
+            },
+            {
+                "source_id": "GB",
+                "target_id": "EE",
+                "strength": 1
+            },
+            {
+                "source_id": "GB",
+                "target_id": "MT",
+                "strength": 2
+            },
+            {
+                "source_id": "GB",
+                "target_id": "SA",
+                "strength": 1
+            },
+            {
+                "source_id": "GB",
+                "target_id": "CY",
+                "strength": 8
+            },
+            {
+                "source_id": "GB",
+                "target_id": "GE",
+                "strength": 2
+            },
+            {
+                "source_id": "GB",
+                "target_id": "ID",
+                "strength": 6
+            },
+            {
+                "source_id": "DE",
+                "target_id": "RO",
+                "strength": 3
+            },
+            {
+                "source_id": "DE",
+                "target_id": "ES",
+                "strength": 19
+            },
+            {
+                "source_id": "DE",
+                "target_id": "CA",
+                "strength": 3
+            },
+            {
+                "source_id": "DE",
+                "target_id": "FI",
+                "strength": 15
+            },
+            {
+                "source_id": "DE",
+                "target_id": "FR",
+                "strength": 24
+            },
+            {
+                "source_id": "DE",
+                "target_id": "BA",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "IT",
+                "strength": 36
+            },
+            {
+                "source_id": "DE",
+                "target_id": "HR",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "DK",
+                "strength": 7
+            },
+            {
+                "source_id": "DE",
+                "target_id": "NO",
+                "strength": 10
+            },
+            {
+                "source_id": "DE",
+                "target_id": "BR",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "LT",
+                "strength": 4
+            },
+            {
+                "source_id": "DE",
+                "target_id": "CH",
+                "strength": 33
+            },
+            {
+                "source_id": "DE",
+                "target_id": "SE",
+                "strength": 6
+            },
+            {
+                "source_id": "DE",
+                "target_id": "PL",
+                "strength": 7
+            },
+            {
+                "source_id": "DE",
+                "target_id": "GR",
+                "strength": 9
+            },
+            {
+                "source_id": "DE",
+                "target_id": "AT",
+                "strength": 57
+            },
+            {
+                "source_id": "DE",
+                "target_id": "SI",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "NL",
+                "strength": 34
+            },
+            {
+                "source_id": "DE",
+                "target_id": "CZ",
+                "strength": 8
+            },
+            {
+                "source_id": "DE",
+                "target_id": "US",
+                "strength": 40
+            },
+            {
+                "source_id": "DE",
+                "target_id": "BE",
+                "strength": 12
+            },
+            {
+                "source_id": "DE",
+                "target_id": "PT",
+                "strength": 3
+            },
+            {
+                "source_id": "DE",
+                "target_id": "TR",
+                "strength": 12
+            },
+            {
+                "source_id": "DE",
+                "target_id": "HU",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "RS",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "IR",
+                "strength": 8
+            },
+            {
+                "source_id": "DE",
+                "target_id": "BF",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "CL",
+                "strength": 4
+            },
+            {
+                "source_id": "DE",
+                "target_id": "CO",
+                "strength": 13
+            },
+            {
+                "source_id": "DE",
+                "target_id": "IN",
+                "strength": 10
+            },
+            {
+                "source_id": "DE",
+                "target_id": "LU",
+                "strength": 2
+            },
+            {
+                "source_id": "DE",
+                "target_id": "TZ",
+                "strength": 2
+            },
+            {
+                "source_id": "DE",
+                "target_id": "ET",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "KW",
+                "strength": 1
+            },
+            {
+                "source_id": "DE",
+                "target_id": "ME",
+                "strength": 5
+            },
+            {
+                "source_id": "RO",
+                "target_id": "ES",
+                "strength": 4
+            },
+            {
+                "source_id": "RO",
+                "target_id": "CA",
+                "strength": 1
+            },
+            {
+                "source_id": "RO",
+                "target_id": "FI",
+                "strength": 1
+            },
+            {
+                "source_id": "RO",
+                "target_id": "FR",
+                "strength": 2
+            },
+            {
+                "source_id": "RO",
+                "target_id": "IT",
+                "strength": 3
+            },
+            {
+                "source_id": "RO",
+                "target_id": "NO",
+                "strength": 4
+            },
+            {
+                "source_id": "RO",
+                "target_id": "CH",
+                "strength": 5
+            },
+            {
+                "source_id": "RO",
+                "target_id": "GR",
+                "strength": 2
+            },
+            {
+                "source_id": "RO",
+                "target_id": "AT",
+                "strength": 2
+            },
+            {
+                "source_id": "RO",
+                "target_id": "NL",
+                "strength": 1
+            },
+            {
+                "source_id": "RO",
+                "target_id": "US",
+                "strength": 1
+            },
+            {
+                "source_id": "RO",
+                "target_id": "IN",
+                "strength": 2
+            },
+            {
+                "source_id": "ES",
+                "target_id": "FI",
+                "strength": 7
+            },
+            {
+                "source_id": "ES",
+                "target_id": "FR",
+                "strength": 25
+            },
+            {
+                "source_id": "ES",
+                "target_id": "IT",
+                "strength": 19
+            },
+            {
+                "source_id": "ES",
+                "target_id": "NO",
+                "strength": 29
+            },
+            {
+                "source_id": "ES",
+                "target_id": "BR",
+                "strength": 1
+            },
+            {
+                "source_id": "ES",
+                "target_id": "LT",
+                "strength": 2
+            },
+            {
+                "source_id": "ES",
+                "target_id": "CH",
+                "strength": 13
+            },
+            {
+                "source_id": "ES",
+                "target_id": "SE",
+                "strength": 14
+            },
+            {
+                "source_id": "ES",
+                "target_id": "GR",
+                "strength": 6
+            },
+            {
+                "source_id": "ES",
+                "target_id": "AT",
+                "strength": 18
+            },
+            {
+                "source_id": "ES",
+                "target_id": "SI",
+                "strength": 5
+            },
+            {
+                "source_id": "ES",
+                "target_id": "NL",
+                "strength": 12
+            },
+            {
+                "source_id": "ES",
+                "target_id": "AU",
+                "strength": 1
+            },
+            {
+                "source_id": "ES",
+                "target_id": "US",
+                "strength": 12
+            },
+            {
+                "source_id": "ES",
+                "target_id": "BE",
+                "strength": 17
+            },
+            {
+                "source_id": "ES",
+                "target_id": "PT",
+                "strength": 15
+            },
+            {
+                "source_id": "ES",
+                "target_id": "TR",
+                "strength": 9
+            },
+            {
+                "source_id": "ES",
+                "target_id": "IE",
+                "strength": 3
+            },
+            {
+                "source_id": "ES",
+                "target_id": "TW",
+                "strength": 1
+            },
+            {
+                "source_id": "ES",
+                "target_id": "AR",
+                "strength": 1
+            },
+            {
+                "source_id": "ES",
+                "target_id": "CO",
+                "strength": 3
+            },
+            {
+                "source_id": "ES",
+                "target_id": "CY",
+                "strength": 1
+            },
+            {
+                "source_id": "ES",
+                "target_id": "PY",
+                "strength": 5
+            },
+            {
+                "source_id": "CA",
+                "target_id": "FI",
+                "strength": 4
+            },
+            {
+                "source_id": "CA",
+                "target_id": "FR",
+                "strength": 14
+            },
+            {
+                "source_id": "CA",
+                "target_id": "IT",
+                "strength": 30
+            },
+            {
+                "source_id": "CA",
+                "target_id": "DK",
+                "strength": 6
+            },
+            {
+                "source_id": "CA",
+                "target_id": "NO",
+                "strength": 6
+            },
+            {
+                "source_id": "CA",
+                "target_id": "BR",
+                "strength": 7
+            },
+            {
+                "source_id": "CA",
+                "target_id": "CH",
+                "strength": 9
+            },
+            {
+                "source_id": "CA",
+                "target_id": "SE",
+                "strength": 10
+            },
+            {
+                "source_id": "CA",
+                "target_id": "AT",
+                "strength": 1
+            },
+            {
+                "source_id": "CA",
+                "target_id": "NL",
+                "strength": 3
+            },
+            {
+                "source_id": "CA",
+                "target_id": "AU",
+                "strength": 2
+            },
+            {
+                "source_id": "CA",
+                "target_id": "US",
+                "strength": 52
+            },
+            {
+                "source_id": "CA",
+                "target_id": "BE",
+                "strength": 9
+            },
+            {
+                "source_id": "CA",
+                "target_id": "NZ",
+                "strength": 1
+            },
+            {
+                "source_id": "CA",
+                "target_id": "TW",
+                "strength": 8
+            },
+            {
+                "source_id": "CA",
+                "target_id": "PH",
+                "strength": 3
+            },
+            {
+                "source_id": "CA",
+                "target_id": "KR",
+                "strength": 6
+            },
+            {
+                "source_id": "CA",
+                "target_id": "UA",
+                "strength": 6
+            },
+            {
+                "source_id": "CA",
+                "target_id": "MX",
+                "strength": 3
+            },
+            {
+                "source_id": "CA",
+                "target_id": "SG",
+                "strength": 1
+            },
+            {
+                "source_id": "CA",
+                "target_id": "AR",
+                "strength": 3
+            },
+            {
+                "source_id": "CA",
+                "target_id": "IS",
+                "strength": 1
+            },
+            {
+                "source_id": "CA",
+                "target_id": "IN",
+                "strength": 6
+            },
+            {
+                "source_id": "CA",
+                "target_id": "EE",
+                "strength": 1
+            },
+            {
+                "source_id": "CA",
+                "target_id": "KW",
+                "strength": 3
+            },
+            {
+                "source_id": "CA",
+                "target_id": "ID",
+                "strength": 3
+            },
+            {
+                "source_id": "CA",
+                "target_id": "QA",
+                "strength": 3
+            },
+            {
+                "source_id": "CA",
+                "target_id": "JO",
+                "strength": 3
+            },
+            {
+                "source_id": "FI",
+                "target_id": "FR",
+                "strength": 3
+            },
+            {
+                "source_id": "FI",
+                "target_id": "DK",
+                "strength": 14
+            },
+            {
+                "source_id": "FI",
+                "target_id": "NO",
+                "strength": 19
+            },
+            {
+                "source_id": "FI",
+                "target_id": "BR",
+                "strength": 2
+            },
+            {
+                "source_id": "FI",
+                "target_id": "CH",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "SE",
+                "strength": 22
+            },
+            {
+                "source_id": "FI",
+                "target_id": "GR",
+                "strength": 4
+            },
+            {
+                "source_id": "FI",
+                "target_id": "NL",
+                "strength": 3
+            },
+            {
+                "source_id": "FI",
+                "target_id": "CZ",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "AU",
+                "strength": 2
+            },
+            {
+                "source_id": "FI",
+                "target_id": "US",
+                "strength": 7
+            },
+            {
+                "source_id": "FI",
+                "target_id": "BE",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "NZ",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "PT",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "TR",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "IE",
+                "strength": 2
+            },
+            {
+                "source_id": "FI",
+                "target_id": "TW",
+                "strength": 2
+            },
+            {
+                "source_id": "FI",
+                "target_id": "PH",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "KR",
+                "strength": 2
+            },
+            {
+                "source_id": "FI",
+                "target_id": "MX",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "AR",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "IS",
+                "strength": 8
+            },
+            {
+                "source_id": "FI",
+                "target_id": "CO",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "EE",
+                "strength": 3
+            },
+            {
+                "source_id": "FI",
+                "target_id": "KW",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "ID",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "QA",
+                "strength": 1
+            },
+            {
+                "source_id": "FI",
+                "target_id": "JO",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "IT",
+                "strength": 17
+            },
+            {
+                "source_id": "FR",
+                "target_id": "DK",
+                "strength": 3
+            },
+            {
+                "source_id": "FR",
+                "target_id": "NO",
+                "strength": 3
+            },
+            {
+                "source_id": "FR",
+                "target_id": "BR",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "CH",
+                "strength": 16
+            },
+            {
+                "source_id": "FR",
+                "target_id": "SE",
+                "strength": 17
+            },
+            {
+                "source_id": "FR",
+                "target_id": "IL",
+                "strength": 9
+            },
+            {
+                "source_id": "FR",
+                "target_id": "GR",
+                "strength": 15
+            },
+            {
+                "source_id": "FR",
+                "target_id": "AT",
+                "strength": 16
+            },
+            {
+                "source_id": "FR",
+                "target_id": "NL",
+                "strength": 16
+            },
+            {
+                "source_id": "FR",
+                "target_id": "CZ",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "AU",
+                "strength": 2
+            },
+            {
+                "source_id": "FR",
+                "target_id": "US",
+                "strength": 28
+            },
+            {
+                "source_id": "FR",
+                "target_id": "BE",
+                "strength": 21
+            },
+            {
+                "source_id": "FR",
+                "target_id": "NZ",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "PT",
+                "strength": 3
+            },
+            {
+                "source_id": "FR",
+                "target_id": "TR",
+                "strength": 5
+            },
+            {
+                "source_id": "FR",
+                "target_id": "CN",
+                "strength": 2
+            },
+            {
+                "source_id": "FR",
+                "target_id": "LB",
+                "strength": 8
+            },
+            {
+                "source_id": "FR",
+                "target_id": "IR",
+                "strength": 2
+            },
+            {
+                "source_id": "FR",
+                "target_id": "BF",
+                "strength": 22
+            },
+            {
+                "source_id": "FR",
+                "target_id": "CL",
+                "strength": 4
+            },
+            {
+                "source_id": "FR",
+                "target_id": "IS",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "IN",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "TH",
+                "strength": 5
+            },
+            {
+                "source_id": "FR",
+                "target_id": "EE",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "SN",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "DZ",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "LU",
+                "strength": 2
+            },
+            {
+                "source_id": "FR",
+                "target_id": "CY",
+                "strength": 2
+            },
+            {
+                "source_id": "FR",
+                "target_id": "CI",
+                "strength": 1
+            },
+            {
+                "source_id": "FR",
+                "target_id": "EG",
+                "strength": 1
+            },
+            {
+                "source_id": "BA",
+                "target_id": "US",
+                "strength": 1
+            },
+            {
+                "source_id": "BA",
+                "target_id": "RS",
+                "strength": 1
+            },
+            {
+                "source_id": "IT",
+                "target_id": "DK",
+                "strength": 2
+            },
+            {
+                "source_id": "IT",
+                "target_id": "NO",
+                "strength": 2
+            },
+            {
+                "source_id": "IT",
+                "target_id": "BR",
+                "strength": 1
+            },
+            {
+                "source_id": "IT",
+                "target_id": "LT",
+                "strength": 6
+            },
+            {
+                "source_id": "IT",
+                "target_id": "CH",
+                "strength": 14
+            },
+            {
+                "source_id": "IT",
+                "target_id": "SE",
+                "strength": 7
+            },
+            {
+                "source_id": "IT",
+                "target_id": "PL",
+                "strength": 2
+            },
+            {
+                "source_id": "IT",
+                "target_id": "IL",
+                "strength": 5
+            },
+            {
+                "source_id": "IT",
+                "target_id": "GR",
+                "strength": 8
+            },
+            {
+                "source_id": "IT",
+                "target_id": "AT",
+                "strength": 26
+            },
+            {
+                "source_id": "IT",
+                "target_id": "NL",
+                "strength": 23
+            },
+            {
+                "source_id": "IT",
+                "target_id": "CZ",
+                "strength": 1
+            },
+            {
+                "source_id": "IT",
+                "target_id": "AU",
+                "strength": 7
+            },
+            {
+                "source_id": "IT",
+                "target_id": "US",
+                "strength": 26
+            },
+            {
+                "source_id": "IT",
+                "target_id": "BE",
+                "strength": 25
+            },
+            {
+                "source_id": "IT",
+                "target_id": "TW",
+                "strength": 1
+            },
+            {
+                "source_id": "IT",
+                "target_id": "CY",
+                "strength": 1
+            },
+            {
+                "source_id": "HR",
+                "target_id": "DK",
+                "strength": 1
+            },
+            {
+                "source_id": "HR",
+                "target_id": "NL",
+                "strength": 1
+            },
+            {
+                "source_id": "DK",
+                "target_id": "NO",
+                "strength": 30
+            },
+            {
+                "source_id": "DK",
+                "target_id": "CH",
+                "strength": 1
+            },
+            {
+                "source_id": "DK",
+                "target_id": "SE",
+                "strength": 12
+            },
+            {
+                "source_id": "DK",
+                "target_id": "GR",
+                "strength": 1
+            },
+            {
+                "source_id": "DK",
+                "target_id": "AT",
+                "strength": 1
+            },
+            {
+                "source_id": "DK",
+                "target_id": "NL",
+                "strength": 1
+            },
+            {
+                "source_id": "DK",
+                "target_id": "AU",
+                "strength": 13
+            },
+            {
+                "source_id": "DK",
+                "target_id": "US",
+                "strength": 22
+            },
+            {
+                "source_id": "DK",
+                "target_id": "BE",
+                "strength": 1
+            },
+            {
+                "source_id": "DK",
+                "target_id": "NZ",
+                "strength": 1
+            },
+            {
+                "source_id": "DK",
+                "target_id": "IS",
+                "strength": 5
+            },
+            {
+                "source_id": "DK",
+                "target_id": "EE",
+                "strength": 1
+            },
+            {
+                "source_id": "NO",
+                "target_id": "CH",
+                "strength": 21
+            },
+            {
+                "source_id": "NO",
+                "target_id": "SE",
+                "strength": 26
+            },
+            {
+                "source_id": "NO",
+                "target_id": "GR",
+                "strength": 4
+            },
+            {
+                "source_id": "NO",
+                "target_id": "NL",
+                "strength": 3
+            },
+            {
+                "source_id": "NO",
+                "target_id": "AU",
+                "strength": 3
+            },
+            {
+                "source_id": "NO",
+                "target_id": "US",
+                "strength": 22
+            },
+            {
+                "source_id": "NO",
+                "target_id": "BE",
+                "strength": 7
+            },
+            {
+                "source_id": "NO",
+                "target_id": "NZ",
+                "strength": 1
+            },
+            {
+                "source_id": "NO",
+                "target_id": "JP",
+                "strength": 2
+            },
+            {
+                "source_id": "NO",
+                "target_id": "IR",
+                "strength": 1
+            },
+            {
+                "source_id": "NO",
+                "target_id": "UG",
+                "strength": 2
+            },
+            {
+                "source_id": "NO",
+                "target_id": "IS",
+                "strength": 5
+            },
+            {
+                "source_id": "NO",
+                "target_id": "KE",
+                "strength": 2
+            },
+            {
+                "source_id": "NO",
+                "target_id": "EE",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "SE",
+                "strength": 1
+            },
+            {
+                "source_id": "BR",
+                "target_id": "AT",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "NL",
+                "strength": 4
+            },
+            {
+                "source_id": "BR",
+                "target_id": "US",
+                "strength": 12
+            },
+            {
+                "source_id": "BR",
+                "target_id": "BE",
+                "strength": 3
+            },
+            {
+                "source_id": "BR",
+                "target_id": "PT",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "TW",
+                "strength": 4
+            },
+            {
+                "source_id": "BR",
+                "target_id": "PH",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "KR",
+                "strength": 4
+            },
+            {
+                "source_id": "BR",
+                "target_id": "MX",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "AR",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "KW",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "ID",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "QA",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "JO",
+                "strength": 2
+            },
+            {
+                "source_id": "BR",
+                "target_id": "PY",
+                "strength": 5
+            },
+            {
+                "source_id": "LT",
+                "target_id": "AT",
+                "strength": 7
+            },
+            {
+                "source_id": "LT",
+                "target_id": "NL",
+                "strength": 1
+            },
+            {
+                "source_id": "LT",
+                "target_id": "BE",
+                "strength": 4
+            },
+            {
+                "source_id": "CH",
+                "target_id": "SE",
+                "strength": 4
+            },
+            {
+                "source_id": "CH",
+                "target_id": "GR",
+                "strength": 2
+            },
+            {
+                "source_id": "CH",
+                "target_id": "AT",
+                "strength": 3
+            },
+            {
+                "source_id": "CH",
+                "target_id": "NL",
+                "strength": 20
+            },
+            {
+                "source_id": "CH",
+                "target_id": "CZ",
+                "strength": 3
+            },
+            {
+                "source_id": "CH",
+                "target_id": "AU",
+                "strength": 3
+            },
+            {
+                "source_id": "CH",
+                "target_id": "US",
+                "strength": 26
+            },
+            {
+                "source_id": "CH",
+                "target_id": "BE",
+                "strength": 3
+            },
+            {
+                "source_id": "CH",
+                "target_id": "NZ",
+                "strength": 1
+            },
+            {
+                "source_id": "CH",
+                "target_id": "PT",
+                "strength": 9
+            },
+            {
+                "source_id": "CH",
+                "target_id": "CN",
+                "strength": 2
+            },
+            {
+                "source_id": "CH",
+                "target_id": "CO",
+                "strength": 4
+            },
+            {
+                "source_id": "CH",
+                "target_id": "IN",
+                "strength": 2
+            },
+            {
+                "source_id": "CH",
+                "target_id": "ZA",
+                "strength": 2
+            },
+            {
+                "source_id": "CH",
+                "target_id": "TZ",
+                "strength": 1
+            },
+            {
+                "source_id": "CH",
+                "target_id": "CY",
+                "strength": 2
+            },
+            {
+                "source_id": "SE",
+                "target_id": "GR",
+                "strength": 8
+            },
+            {
+                "source_id": "SE",
+                "target_id": "AT",
+                "strength": 3
+            },
+            {
+                "source_id": "SE",
+                "target_id": "NL",
+                "strength": 2
+            },
+            {
+                "source_id": "SE",
+                "target_id": "CZ",
+                "strength": 2
+            },
+            {
+                "source_id": "SE",
+                "target_id": "AU",
+                "strength": 6
+            },
+            {
+                "source_id": "SE",
+                "target_id": "US",
+                "strength": 19
+            },
+            {
+                "source_id": "SE",
+                "target_id": "BE",
+                "strength": 9
+            },
+            {
+                "source_id": "SE",
+                "target_id": "NZ",
+                "strength": 1
+            },
+            {
+                "source_id": "SE",
+                "target_id": "PT",
+                "strength": 5
+            },
+            {
+                "source_id": "SE",
+                "target_id": "JP",
+                "strength": 2
+            },
+            {
+                "source_id": "SE",
+                "target_id": "TR",
+                "strength": 7
+            },
+            {
+                "source_id": "SE",
+                "target_id": "SG",
+                "strength": 1
+            },
+            {
+                "source_id": "SE",
+                "target_id": "IR",
+                "strength": 2
+            },
+            {
+                "source_id": "SE",
+                "target_id": "IS",
+                "strength": 7
+            },
+            {
+                "source_id": "SE",
+                "target_id": "KE",
+                "strength": 2
+            },
+            {
+                "source_id": "SE",
+                "target_id": "EE",
+                "strength": 5
+            },
+            {
+                "source_id": "SE",
+                "target_id": "CY",
+                "strength": 2
+            },
+            {
+                "source_id": "PL",
+                "target_id": "IL",
+                "strength": 1
+            },
+            {
+                "source_id": "PL",
+                "target_id": "IE",
+                "strength": 1
+            },
+            {
+                "source_id": "PL",
+                "target_id": "MT",
+                "strength": 1
+            },
+            {
+                "source_id": "IL",
+                "target_id": "US",
+                "strength": 3
+            },
+            {
+                "source_id": "IL",
+                "target_id": "PT",
+                "strength": 4
+            },
+            {
+                "source_id": "GR",
+                "target_id": "AT",
+                "strength": 4
+            },
+            {
+                "source_id": "GR",
+                "target_id": "SI",
+                "strength": 1
+            },
+            {
+                "source_id": "GR",
+                "target_id": "NL",
+                "strength": 6
+            },
+            {
+                "source_id": "GR",
+                "target_id": "US",
+                "strength": 1
+            },
+            {
+                "source_id": "GR",
+                "target_id": "BE",
+                "strength": 5
+            },
+            {
+                "source_id": "GR",
+                "target_id": "PT",
+                "strength": 11
+            },
+            {
+                "source_id": "GR",
+                "target_id": "IE",
+                "strength": 4
+            },
+            {
+                "source_id": "GR",
+                "target_id": "HU",
+                "strength": 1
+            },
+            {
+                "source_id": "GR",
+                "target_id": "TW",
+                "strength": 1
+            },
+            {
+                "source_id": "GR",
+                "target_id": "RS",
+                "strength": 1
+            },
+            {
+                "source_id": "GR",
+                "target_id": "CY",
+                "strength": 8
+            },
+            {
+                "source_id": "GR",
+                "target_id": "ME",
+                "strength": 5
+            },
+            {
+                "source_id": "AT",
+                "target_id": "NL",
+                "strength": 24
+            },
+            {
+                "source_id": "AT",
+                "target_id": "CZ",
+                "strength": 3
+            },
+            {
+                "source_id": "AT",
+                "target_id": "US",
+                "strength": 12
+            },
+            {
+                "source_id": "AT",
+                "target_id": "BE",
+                "strength": 14
+            },
+            {
+                "source_id": "AT",
+                "target_id": "TR",
+                "strength": 2
+            },
+            {
+                "source_id": "AT",
+                "target_id": "IR",
+                "strength": 2
+            },
+            {
+                "source_id": "AT",
+                "target_id": "CO",
+                "strength": 5
+            },
+            {
+                "source_id": "SI",
+                "target_id": "US",
+                "strength": 2
+            },
+            {
+                "source_id": "SI",
+                "target_id": "BE",
+                "strength": 1
+            },
+            {
+                "source_id": "SI",
+                "target_id": "IE",
+                "strength": 1
+            },
+            {
+                "source_id": "SI",
+                "target_id": "HU",
+                "strength": 1
+            },
+            {
+                "source_id": "SI",
+                "target_id": "RS",
+                "strength": 2
+            },
+            {
+                "source_id": "SI",
+                "target_id": "ME",
+                "strength": 5
+            },
+            {
+                "source_id": "NL",
+                "target_id": "AU",
+                "strength": 3
+            },
+            {
+                "source_id": "NL",
+                "target_id": "US",
+                "strength": 22
+            },
+            {
+                "source_id": "NL",
+                "target_id": "BE",
+                "strength": 8
+            },
+            {
+                "source_id": "NL",
+                "target_id": "PT",
+                "strength": 1
+            },
+            {
+                "source_id": "NL",
+                "target_id": "TR",
+                "strength": 3
+            },
+            {
+                "source_id": "NL",
+                "target_id": "SG",
+                "strength": 7
+            },
+            {
+                "source_id": "NL",
+                "target_id": "RS",
+                "strength": 2
+            },
+            {
+                "source_id": "NL",
+                "target_id": "IR",
+                "strength": 12
+            },
+            {
+                "source_id": "NL",
+                "target_id": "CY",
+                "strength": 2
+            },
+            {
+                "source_id": "NL",
+                "target_id": "SR",
+                "strength": 2
+            },
+            {
+                "source_id": "CZ",
+                "target_id": "US",
+                "strength": 2
+            },
+            {
+                "source_id": "CZ",
+                "target_id": "CO",
+                "strength": 4
+            },
+            {
+                "source_id": "AU",
+                "target_id": "US",
+                "strength": 13
+            },
+            {
+                "source_id": "AU",
+                "target_id": "NZ",
+                "strength": 2
+            },
+            {
+                "source_id": "AU",
+                "target_id": "JP",
+                "strength": 2
+            },
+            {
+                "source_id": "AU",
+                "target_id": "CN",
+                "strength": 2
+            },
+            {
+                "source_id": "AU",
+                "target_id": "AR",
+                "strength": 1
+            },
+            {
+                "source_id": "AU",
+                "target_id": "IR",
+                "strength": 5
+            },
+            {
+                "source_id": "AU",
+                "target_id": "IS",
+                "strength": 1
+            },
+            {
+                "source_id": "AU",
+                "target_id": "IN",
+                "strength": 5
+            },
+            {
+                "source_id": "AU",
+                "target_id": "TH",
+                "strength": 6
+            },
+            {
+                "source_id": "AU",
+                "target_id": "EE",
+                "strength": 1
+            },
+            {
+                "source_id": "AU",
+                "target_id": "MK",
+                "strength": 2
+            },
+            {
+                "source_id": "AU",
+                "target_id": "SA",
+                "strength": 2
+            },
+            {
+                "source_id": "AU",
+                "target_id": "AE",
+                "strength": 2
+            },
+            {
+                "source_id": "US",
+                "target_id": "BE",
+                "strength": 14
+            },
+            {
+                "source_id": "US",
+                "target_id": "PT",
+                "strength": 2
+            },
+            {
+                "source_id": "US",
+                "target_id": "JP",
+                "strength": 6
+            },
+            {
+                "source_id": "US",
+                "target_id": "TR",
+                "strength": 2
+            },
+            {
+                "source_id": "US",
+                "target_id": "HU",
+                "strength": 2
+            },
+            {
+                "source_id": "US",
+                "target_id": "CN",
+                "strength": 11
+            },
+            {
+                "source_id": "US",
+                "target_id": "TW",
+                "strength": 7
+            },
+            {
+                "source_id": "US",
+                "target_id": "PH",
+                "strength": 3
+            },
+            {
+                "source_id": "US",
+                "target_id": "KR",
+                "strength": 8
+            },
+            {
+                "source_id": "US",
+                "target_id": "MX",
+                "strength": 3
+            },
+            {
+                "source_id": "US",
+                "target_id": "SG",
+                "strength": 1
+            },
+            {
+                "source_id": "US",
+                "target_id": "RS",
+                "strength": 2
+            },
+            {
+                "source_id": "US",
+                "target_id": "AR",
+                "strength": 8
+            },
+            {
+                "source_id": "US",
+                "target_id": "IR",
+                "strength": 4
+            },
+            {
+                "source_id": "US",
+                "target_id": "CL",
+                "strength": 1
+            },
+            {
+                "source_id": "US",
+                "target_id": "KE",
+                "strength": 1
+            },
+            {
+                "source_id": "US",
+                "target_id": "CO",
+                "strength": 1
+            },
+            {
+                "source_id": "US",
+                "target_id": "IN",
+                "strength": 5
+            },
+            {
+                "source_id": "US",
+                "target_id": "EE",
+                "strength": 1
+            },
+            {
+                "source_id": "US",
+                "target_id": "TZ",
+                "strength": 2
+            },
+            {
+                "source_id": "US",
+                "target_id": "KW",
+                "strength": 3
+            },
+            {
+                "source_id": "US",
+                "target_id": "DO",
+                "strength": 2
+            },
+            {
+                "source_id": "US",
+                "target_id": "ID",
+                "strength": 3
+            },
+            {
+                "source_id": "US",
+                "target_id": "QA",
+                "strength": 3
+            },
+            {
+                "source_id": "US",
+                "target_id": "JO",
+                "strength": 3
+            },
+            {
+                "source_id": "US",
+                "target_id": "BD",
+                "strength": 2
+            },
+            {
+                "source_id": "US",
+                "target_id": "PE",
+                "strength": 4
+            },
+            {
+                "source_id": "US",
+                "target_id": "ME",
+                "strength": 1
+            },
+            {
+                "source_id": "BE",
+                "target_id": "PT",
+                "strength": 1
+            },
+            {
+                "source_id": "BE",
+                "target_id": "TR",
+                "strength": 2
+            },
+            {
+                "source_id": "BE",
+                "target_id": "IE",
+                "strength": 2
+            },
+            {
+                "source_id": "BE",
+                "target_id": "BG",
+                "strength": 2
+            },
+            {
+                "source_id": "BE",
+                "target_id": "AR",
+                "strength": 1
+            },
+            {
+                "source_id": "NZ",
+                "target_id": "IR",
+                "strength": 1
+            },
+            {
+                "source_id": "NZ",
+                "target_id": "IS",
+                "strength": 1
+            },
+            {
+                "source_id": "NZ",
+                "target_id": "EE",
+                "strength": 1
+            },
+            {
+                "source_id": "PT",
+                "target_id": "IE",
+                "strength": 1
+            },
+            {
+                "source_id": "PT",
+                "target_id": "CY",
+                "strength": 3
+            },
+            {
+                "source_id": "JP",
+                "target_id": "IE",
+                "strength": 1
+            },
+            {
+                "source_id": "JP",
+                "target_id": "CN",
+                "strength": 1
+            },
+            {
+                "source_id": "JP",
+                "target_id": "TW",
+                "strength": 1
+            },
+            {
+                "source_id": "JP",
+                "target_id": "MY",
+                "strength": 4
+            },
+            {
+                "source_id": "JP",
+                "target_id": "KR",
+                "strength": 1
+            },
+            {
+                "source_id": "JP",
+                "target_id": "SG",
+                "strength": 4
+            },
+            {
+                "source_id": "JP",
+                "target_id": "LB",
+                "strength": 3
+            },
+            {
+                "source_id": "JP",
+                "target_id": "BN",
+                "strength": 1
+            },
+            {
+                "source_id": "JP",
+                "target_id": "IN",
+                "strength": 1
+            },
+            {
+                "source_id": "JP",
+                "target_id": "TH",
+                "strength": 1
+            },
+            {
+                "source_id": "JP",
+                "target_id": "AE",
+                "strength": 2
+            },
+            {
+                "source_id": "JP",
+                "target_id": "BD",
+                "strength": 7
+            },
+            {
+                "source_id": "JP",
+                "target_id": "HK",
+                "strength": 3
+            },
+            {
+                "source_id": "IE",
+                "target_id": "MT",
+                "strength": 1
+            },
+            {
+                "source_id": "HU",
+                "target_id": "RS",
+                "strength": 1
+            },
+            {
+                "source_id": "HU",
+                "target_id": "ME",
+                "strength": 7
+            },
+            {
+                "source_id": "CN",
+                "target_id": "TW",
+                "strength": 2
+            },
+            {
+                "source_id": "CN",
+                "target_id": "KE",
+                "strength": 1
+            },
+            {
+                "source_id": "CN",
+                "target_id": "IN",
+                "strength": 1
+            },
+            {
+                "source_id": "CN",
+                "target_id": "AE",
+                "strength": 1
+            },
+            {
+                "source_id": "TW",
+                "target_id": "PH",
+                "strength": 2
+            },
+            {
+                "source_id": "TW",
+                "target_id": "KR",
+                "strength": 5
+            },
+            {
+                "source_id": "TW",
+                "target_id": "MX",
+                "strength": 2
+            },
+            {
+                "source_id": "TW",
+                "target_id": "SG",
+                "strength": 4
+            },
+            {
+                "source_id": "TW",
+                "target_id": "AR",
+                "strength": 2
+            },
+            {
+                "source_id": "TW",
+                "target_id": "TH",
+                "strength": 1
+            },
+            {
+                "source_id": "TW",
+                "target_id": "SA",
+                "strength": 2
+            },
+            {
+                "source_id": "TW",
+                "target_id": "KW",
+                "strength": 2
+            },
+            {
+                "source_id": "TW",
+                "target_id": "AE",
+                "strength": 1
+            },
+            {
+                "source_id": "TW",
+                "target_id": "ID",
+                "strength": 6
+            },
+            {
+                "source_id": "TW",
+                "target_id": "QA",
+                "strength": 2
+            },
+            {
+                "source_id": "TW",
+                "target_id": "JO",
+                "strength": 2
+            },
+            {
+                "source_id": "MY",
+                "target_id": "BN",
+                "strength": 2
+            },
+            {
+                "source_id": "PH",
+                "target_id": "KR",
+                "strength": 2
+            },
+            {
+                "source_id": "PH",
+                "target_id": "MX",
+                "strength": 1
+            },
+            {
+                "source_id": "PH",
+                "target_id": "AR",
+                "strength": 1
+            },
+            {
+                "source_id": "PH",
+                "target_id": "KW",
+                "strength": 1
+            },
+            {
+                "source_id": "PH",
+                "target_id": "ID",
+                "strength": 1
+            },
+            {
+                "source_id": "PH",
+                "target_id": "QA",
+                "strength": 1
+            },
+            {
+                "source_id": "PH",
+                "target_id": "JO",
+                "strength": 1
+            },
+            {
+                "source_id": "KR",
+                "target_id": "MX",
+                "strength": 2
+            },
+            {
+                "source_id": "KR",
+                "target_id": "SG",
+                "strength": 4
+            },
+            {
+                "source_id": "KR",
+                "target_id": "AR",
+                "strength": 2
+            },
+            {
+                "source_id": "KR",
+                "target_id": "TH",
+                "strength": 1
+            },
+            {
+                "source_id": "KR",
+                "target_id": "KW",
+                "strength": 2
+            },
+            {
+                "source_id": "KR",
+                "target_id": "AE",
+                "strength": 1
+            },
+            {
+                "source_id": "KR",
+                "target_id": "ID",
+                "strength": 2
+            },
+            {
+                "source_id": "KR",
+                "target_id": "QA",
+                "strength": 2
+            },
+            {
+                "source_id": "KR",
+                "target_id": "JO",
+                "strength": 2
+            },
+            {
+                "source_id": "KR",
+                "target_id": "KH",
+                "strength": 4
+            },
+            {
+                "source_id": "MX",
+                "target_id": "AR",
+                "strength": 1
+            },
+            {
+                "source_id": "MX",
+                "target_id": "KW",
+                "strength": 1
+            },
+            {
+                "source_id": "MX",
+                "target_id": "ID",
+                "strength": 1
+            },
+            {
+                "source_id": "MX",
+                "target_id": "QA",
+                "strength": 1
+            },
+            {
+                "source_id": "MX",
+                "target_id": "JO",
+                "strength": 1
+            },
+            {
+                "source_id": "SG",
+                "target_id": "IN",
+                "strength": 3
+            },
+            {
+                "source_id": "SG",
+                "target_id": "TH",
+                "strength": 4
+            },
+            {
+                "source_id": "SG",
+                "target_id": "AE",
+                "strength": 4
+            },
+            {
+                "source_id": "RS",
+                "target_id": "ME",
+                "strength": 5
+            },
+            {
+                "source_id": "AR",
+                "target_id": "CL",
+                "strength": 2
+            },
+            {
+                "source_id": "AR",
+                "target_id": "KW",
+                "strength": 1
+            },
+            {
+                "source_id": "AR",
+                "target_id": "ID",
+                "strength": 1
+            },
+            {
+                "source_id": "AR",
+                "target_id": "QA",
+                "strength": 1
+            },
+            {
+                "source_id": "AR",
+                "target_id": "JO",
+                "strength": 1
+            },
+            {
+                "source_id": "AR",
+                "target_id": "BD",
+                "strength": 6
+            },
+            {
+                "source_id": "BF",
+                "target_id": "EG",
+                "strength": 1
+            },
+            {
+                "source_id": "CL",
+                "target_id": "ID",
+                "strength": 3
+            },
+            {
+                "source_id": "IS",
+                "target_id": "EE",
+                "strength": 1
+            },
+            {
+                "source_id": "IN",
+                "target_id": "AE",
+                "strength": 1
+            },
+            {
+                "source_id": "TH",
+                "target_id": "AE",
+                "strength": 1
+            },
+            {
+                "source_id": "TH",
+                "target_id": "VN",
+                "strength": 5
+            },
+            {
+                "source_id": "SN",
+                "target_id": "CI",
+                "strength": 1
+            },
+            {
+                "source_id": "KW",
+                "target_id": "ID",
+                "strength": 1
+            },
+            {
+                "source_id": "KW",
+                "target_id": "QA",
+                "strength": 1
+            },
+            {
+                "source_id": "KW",
+                "target_id": "JO",
+                "strength": 1
+            },
+            {
+                "source_id": "CM",
+                "target_id": "ML",
+                "strength": 4
+            },
+            {
+                "source_id": "ID",
+                "target_id": "QA",
+                "strength": 1
+            },
+            {
+                "source_id": "ID",
+                "target_id": "JO",
+                "strength": 1
+            },
+            {
+                "source_id": "QA",
+                "target_id": "JO",
+                "strength": 1
+            }
+        ]
+    }
+}
