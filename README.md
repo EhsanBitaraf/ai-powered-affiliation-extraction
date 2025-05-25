@@ -2,11 +2,13 @@
 
 This repository contains detailed bibliometric analyses of MIE Conferences to be published at MIE 2025.
 
-<cente>
+<center>
 <div style="text-align: center;">
   <img src="/docs/glasgow.png" alt="MIE 2025 Conference" width="400" height="266">
 </div>
-</cente>
+</center>
+
+
 # Table of contents
 
 - [Result](#result)
