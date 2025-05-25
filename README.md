@@ -3,6 +3,10 @@
 This repository contains detailed bibliometric analyses of MIE Conferences to be published at MIE 2025.
 
 
+<div style="text-align: center;">
+  <img src="/docs/glasgow.png" alt="MIE 2025 Conference" width="266" height="400">
+</div>
+
 # Table of contents
 
 - [Result](#result)
@@ -162,9 +166,24 @@ structural_affiliations fields sample:
   ]
 ```
 
-![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/EhsanBitaraf/ai-powered-affiliation-extraction/total)
+![Repo Size](https://img.shields.io/github/repo-size/EhsanBitaraf/ai-powered-affiliation-extraction)
 
 # Citation
+If you use this article or the dataset in a scientific publication, we would appreciate references to the following [paper](https://doi.org/10.3233/shti250474):
+
+Biblatex entry:
+
+```latex
+@article{bitaraf-2025,
+	author = {Bitaraf, Ehsan and Jafarpour, Maryam},
+	journal = {Studies in health technology and informatics},
+	month = {5},
+	title = {{AI-Powered Affiliation Insights: LLM-Based Bibliometric Study of European Medical Informatics Conferences}},
+	year = {2025},
+	doi = {10.3233/shti250474},
+	url = {https://doi.org/10.3233/shti250474},
+}
+```
 
 # Contributors
 

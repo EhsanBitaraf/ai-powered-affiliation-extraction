@@ -1,0 +1,52 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  AI-Powered Affiliation Insights: LLM-Based Bibliometric
+  Study of European Medical Informatics Conferences 
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ehsan
+    family-names: Bitaraf
+    email: ehsan.bitaraf@gmail.com
+    affiliation: >-
+      Rajaei Cardiovascular Research Institute, Iran
+      University of Medical Sciences, Tehran, Iran
+    orcid: 'https://orcid.org/0000-0002-6588-7349'
+  - given-names: Maryam
+    family-names: ' Jafarpour'
+    email: maryam.jafarpoor@gmail.com
+    affiliation: >-
+      Center for Medical Data Science, Medical University of
+      Vienna, Vienna, Austria
+    orcid: 'https://orcid.org/0000-0001-7266-5018'
+repository-code: >-
+  https://github.com/EhsanBitaraf/ai-powered-affiliation-extraction
+url: 'https://ebooks.iospress.nl/doi/10.3233/SHTI250474'
+abstract: >-
+  This study employs Large Language Models (LLMs) to analyze
+  bibliometric data from European Medical Informatics
+  conferences from 1996 to 2024. By enhancing traditional
+  methods with LLM-based techniques, the researchers
+  significantly improved affiliation extraction accuracy.
+  The analysis reveals trends in publication volume, author
+  impact, and institutional collaborations across Europe.
+  Key findings include the identification of leading
+  contributors, visualization of collaboration networks, and
+  mapping of geographical and institutional centers of
+  excellence. The study highlights the potential of LLMs in
+  bibliometric analysis, offering deeper insights into
+  research trends and collaborations while addressing
+  challenges in data standardization and computational
+  resources.
+keywords:
+  - Artificial Intelligence
+  - LLM
+  - Bibliometrics
+  - Medical Informatics
+  - affiliation parsing
+license: CC-BY-NC-4.0

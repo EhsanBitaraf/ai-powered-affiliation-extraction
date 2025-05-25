@@ -5,6 +5,7 @@ We use [Semantic Versioning](https://semver.org/)
 ## v0.0.1 - 2024-10-07
 
 ### Improvements
+- Create `CITATION.cff` 2025-05-25
 - Add Final Dataset
 - Complete `README.md`
 - Add `lib_co_occurrence.py` but not use.
