@@ -4,7 +4,7 @@ This repository contains detailed bibliometric analyses of MIE Conferences to be
 
 
 <div style="text-align: center;">
-  <img src="/docs/glasgow.png" alt="MIE 2025 Conference" width="266" height="400">
+  <img src="/docs/glasgow.png" alt="MIE 2025 Conference" width="400" height="266">
 </div>
 
 # Table of contents
